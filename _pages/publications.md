@@ -4,11 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Dissertation
+## Dissertation
 
 Nie, Yining. 2020. [Licensing arguments](/publication/Nie-2020-Licensing-arguments). New York University: PhD dissertation.
 
-### Publications
+## Publications
 
 Nie, Yining. 2020. [Morphological causatives are Voice over Voice](/publication/Nie-2020-Morphological-causatives). <i>Word Structure</i> 13(1). 102-126.
 
@@ -28,7 +28,7 @@ Nie, Yining. 2017. [Phonetic enhancement and three patterns of English <i>a</i>-
 
 Nie, Yining. 2015. [Tense and modality in French verbal morphology](/publication/Nie-2015-French-tense). <i>Proceedings of CLA 2015</i>.
 
-### Manuscripts
+## Manuscripts
 
 Nie, Yining. 2017. [Voice morphology and the features of transitivity](/publication/Nie-2017-Voice-morphology). New York University: ms.
 

@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -11,15 +10,13 @@ redirect_from:
 
 Here is my full [CV](/files/Nie_CV.pdf).
 
-### Education
-=====
+## Education
 
 * PhD in Linguistics, New York University, 2020
 * MA in Linguistics, University of Toronto, 2015
 * BA in Linguistics, Trinity College, University of Cambridge, 2014
 
-### Service and leadership
-=====
+## Service and leadership
 
 * Linguistic Society of America
 	* Member, Executive Committee, 2017-2019
