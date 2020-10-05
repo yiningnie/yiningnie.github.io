@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: none
+title: About
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,20 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Research interests
------
+I specialize in syntax and morphology, especially in the domain of argument structure and event structure. I also have an interest in experimental approaches to syntax and morphology, as well as the morphology-phonology interface.
 
-I specialize in syntax and morphology, especially in the domain of argument structure and event structure.
-
-I also have an interest in experimental approaches to syntax and morphology, as well as the morphology-phonology interface.
-
-Contact me: yiningnie(æt)nyu.edu
-
-About
------
+I completed my PhD at New York University in May 2020. I received my BA from the University of Cambridge and MA from the University of Toronto.
 
 How to pronounce my name: [jɪˈnɪŋ ˈniː]<br/>
 
-I completed my PhD at New York University in May 2020. I received my BA from the University of Cambridge and MA from the University of Toronto.
 
 
