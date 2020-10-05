@@ -3,7 +3,7 @@ title: "Licensing arguments"
 collection: publications
 permalink: /publication/Nie-2020-Licensing-arguments
 excerpt:
-date: 
+date: 2020-06-01
 venue: 
 paperurl: 'https://ling.auf.net/lingbuzz/005283'
 citation: 
