@@ -30,5 +30,7 @@ Nie, Yining. 2015. [Tense and modality in French verbal morphology](/publication
 
 ## Manuscripts
 
+Kouneli, Maria and Yining Nie. Under revision. Across-the-board tonal polarity in Kipsigis.
+
 Nie, Yining. 2017. [Voice morphology and the features of transitivity](/publication/Nie-2017-Voice-morphology). New York University: ms.
 
