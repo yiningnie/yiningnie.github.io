@@ -1,7 +1,7 @@
 ---
 title: "Licensing arguments"
 collection: publications
-permalink: /publication/2020-Licensing-arguments
+permalink: /publication/Nie-2020-Licensing-arguments
 excerpt:
 date: 
 venue: 
