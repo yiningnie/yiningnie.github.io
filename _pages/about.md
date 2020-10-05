@@ -14,5 +14,5 @@ I completed my PhD at New York University in May 2020. I received my BA from the
 
 How to pronounce my name: [jɪˈnɪŋ ˈniː]<br/>
 
-
+Contact me: yiningnie(æt)nyu.edu
 
