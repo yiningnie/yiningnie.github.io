@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,5 +16,9 @@ I specialize in syntax and morphology, especially in the domain of argument stru
 
 I also have an interest in experimental approaches to syntax and morphology, as well as the morphology-phonology interface.
 
-How to pronounce my name: [jɪˈnɪŋ ˈniː]
+How to pronounce my name: [jɪˈnɪŋ ˈniː]<br>
 Contact me: yiningnie(æt)nyu.edu
+
+About
+-----
+
