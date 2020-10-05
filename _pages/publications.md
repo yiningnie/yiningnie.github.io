@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -44,12 +43,12 @@ Nie, Yining. 2015. Tense and modality in French verbal morphology. Proceedings o
 Nie, Yining. 2017. Voice morphology and the features of transitivity. New York University: ms.
 [lingbuzz]
 
-#{% if author.googlescholar %}
-#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-#{% endif %}
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
-#{% include base_path %}
+{% include base_path %}
 
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
