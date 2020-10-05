@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: none
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +11,7 @@ redirect_from:
 Research interests
 -----
 
-I specialize in syntax and morphology, especially in the domain of argument structure. My dissertation investigates cross-linguistic differences in argument recursion, which I connect to nominal licensing on the one hand and event structure on the other.
+I specialize in syntax and morphology, especially in the domain of argument structure and event structure.
 
 I also have an interest in experimental approaches to syntax and morphology, as well as the morphology-phonology interface.
 
