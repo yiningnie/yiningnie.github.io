@@ -1,9 +1,9 @@
 ---
-title: "Morphological causatives are Voice over Voice"
+title: "Why is there NOM-NOM and ACC-ACC but no ERG-ERG?"
 collection: publications
 permalink: /publication/Nie-2017-ERG-ERG
 excerpt:
-date: 2020-03-01
+date: 2017-10-26
 venue: 
 paperurl: 'http://yiningnie.github.io/files/Nie-2017-ERG-ERG.pdf'
 citation: 
