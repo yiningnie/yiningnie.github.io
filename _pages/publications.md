@@ -6,7 +6,7 @@ author_profile: true
 
 ## Dissertation
 
-Nie, Yining. 2020. [<ins>Licensing arguments</ins>](/publication/Nie-2020-Licensing-arguments). New York University: PhD dissertation.
+Nie, Yining. 2020. [Licensing arguments](/publication/Nie-2020-Licensing-arguments). New York University: PhD dissertation.
 
 ## Publications
 
