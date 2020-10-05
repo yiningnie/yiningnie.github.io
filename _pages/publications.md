@@ -6,7 +6,7 @@ author_profile: true
 
 ### Dissertation
 
-Nie, Yining. 2020. Licensing arguments. New York University: PhD dissertation.
+Nie, Yining. 2020. [Licensing arguments](/publication/2020-Licensing-arguments). New York University: PhD dissertation.
 [lingbuzz]
 
 ### Publications
