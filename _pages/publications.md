@@ -10,7 +10,7 @@ Nie, Yining. 2020. [Licensing arguments](http://yiningnie.github.io/publication/
 
 ### Publications
 
-Nie, Yining. 2020. Morphological causatives are Voice over Voice. <i>Word Structure</i> 13(1). 102-126.
+Nie, Yining. 2020. [Morphological causatives are Voice over Voice](/publication/Nie-2020-Morphological-causatives). <i>Word Structure</i> 13(1). 102-126.
 
 Manova, Stela, Harald Hammarström, Itamar Kastner and Yining Nie. 2020. What is in a morpheme? Theoretical, experimental and computational approaches to the relation of meaning and form in morphology. <i>Word Structure</i> 13(1). 1-21.
 
@@ -22,7 +22,7 @@ Hsieh, Henrison and Yining Nie. Where (and what) the Tagalog kung-CPs are. <i>Mc
 
 Nie, Yining. 2018. Contrast and prosody in derived environment effects. <i>Toronto Working Papers in Linguistics</i> 40.
 
-Nie, Yining. 2017. Why is there NOM-NOM and ACC-ACC but no ERG-ERG? <i>Proceedings of NELS 47, Volume 2</i>, 315-328.
+Nie, Yining. 2017. [Why is there NOM-NOM and ACC-ACC but no ERG-ERG?](/publication/Nie-2017-ERG-ERG) <i>Proceedings of NELS 47, Volume 2</i>, 315-328.
 
 Nie, Yining. 2017. Phonetic enhancement and three patterns of English a-tensing. <i>Proceedings of PLC 40</i>, Article 21.
 
