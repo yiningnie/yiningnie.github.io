@@ -10,6 +10,8 @@ Nie, Yining. 2020. [Licensing arguments](/publication/Nie-2020-Licensing-argumen
 
 ## Publications
 
+Kouneli, Maria and Yining Nie. Accepted. [Across-the-board tonal polarity in Kipsigis: Implications for the morphology-phonology interface](/publication/Kouneli-2020-Kipsigis). \textit{Language}.
+
 Nie, Yining. 2020. [Morphological causatives are Voice over Voice](/publication/Nie-2020-Morphological-causatives). <i>Word Structure</i> 13(1). 102-126.
 
 Manova, Stela, Harald Hammarström, Itamar Kastner and Yining Nie. 2020. [What is in a morpheme?](/publication/Manova-2020-Morpheme) Theoretical, experimental and computational approaches to the relation of meaning and form in morphology. <i>Word Structure</i> 13(1). 1-21.
@@ -29,8 +31,6 @@ Nie, Yining. 2017. [Phonetic enhancement and three patterns of English <i>a</i>-
 Nie, Yining. 2015. [Tense and modality in French verbal morphology](/publication/Nie-2015-French-tense). <i>Proceedings of CLA 2015</i>.
 
 ## Manuscripts
-
-Kouneli, Maria and Yining Nie. Accepted. Across-the-board tonal polarity in Kipsigis.
 
 Nie, Yining. 2017. [Voice morphology and the features of transitivity](/publication/Nie-2017-Voice-morphology). New York University: ms.
 
