@@ -9,7 +9,7 @@ paperurl: 'https://ling.auf.net/lingbuzz/005520'
 citation: 
 ---
 
-Kouneli, Maria and Yining Nie. Accepted. Across-the-board tonal polarity in Kipsigis: Implications for the morphology-phonology interface. <i>Language</i>.
+Kouneli, Maria and Yining Nie. To appear. Across-the-board tonal polarity in Kipsigis: Implications for the morphology-phonology interface. <i>Language</i>.
 
 [Download from Lingbuzz](https://ling.auf.net/lingbuzz/005520)
 
