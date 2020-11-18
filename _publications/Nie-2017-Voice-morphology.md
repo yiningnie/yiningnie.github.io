@@ -5,13 +5,13 @@ permalink: /publication/Nie-2017-Voice-morphology
 excerpt:
 date: 2017-11-01
 venue: 
-paperurl: 'http://ling.auf.net/lingbuzz/003750'
+paperurl: 'https://ling.auf.net/lingbuzz/003750/current.pdf?_s=a4vHqheTj7OSeJeu'
 citation: 
 ---
 
-Nie, Yining. 2017. Voice morphology and the features of transitivity. New York University: ms.
+Nie, Yining. 2017. Voice morphology and the features of transitivity. New York University: ms. lingbuzz/003750
 
-[Download from Lingbuzz](http://ling.auf.net/lingbuzz/003750)
+[Download from Lingbuzz](https://ling.auf.net/lingbuzz/003750/current.pdf?_s=a4vHqheTj7OSeJeu)
 
 ### Abstract
 
