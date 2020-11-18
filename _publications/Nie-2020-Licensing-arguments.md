@@ -5,13 +5,13 @@ permalink: /publication/Nie-2020-Licensing-arguments
 excerpt:
 date: 2020-05-01
 venue: 
-paperurl: 'https://ling.auf.net/lingbuzz/005283'
+paperurl: 'https://ling.auf.net/lingbuzz/005283/current.pdf?_s=bvYYPvER1Cn9AmM2'
 citation: 
 ---
 
 Nie, Yining. 2020. Licensing arguments. New York University: PhD dissertation.
 
-[Download from Lingbuzz](https://ling.auf.net/lingbuzz/005283)
+[Download from Lingbuzz](https://ling.auf.net/lingbuzz/005283/current.pdf?_s=bvYYPvER1Cn9AmM2)
 
 ### Abstract
 
