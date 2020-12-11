@@ -1,11 +1,9 @@
 ---
-permalink: /
+permalink: /about/
 title: About
 excerpt: "About me"
 author_profile: true
-//redirect_from: 
-//  - /about/
-//  - /about.html
+
 ---
 
 I specialize in syntax and morphology, especially in the domain of argument structure and event structure. I also have an interest in experimental approaches to syntax and morphology, as well as the morphology-phonology interface.
