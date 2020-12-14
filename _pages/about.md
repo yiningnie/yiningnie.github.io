@@ -14,4 +14,4 @@ Starting in January 2021, I will be a postdoctoral researcher at Humboldt-Univer
 
 How to pronounce my name: [jɪˈnɪŋ ˈniː]<br/>
 
-Contact me: yiningnie(æt)nyu.edu
+Contact me: yiningnie(æt)nyu.edu / yining.nie(æt)hu-berlin.de
