@@ -10,6 +10,10 @@ redirect_from:
 
 Here is my full [CV](/files/Nie_CV.pdf).
 
+## Employment
+
+* Postdoctoral researcher, Humboldt-Universität zu Berlin, 2021 - present
+
 ## Education
 
 * PhD in Linguistics, New York University, 2020
