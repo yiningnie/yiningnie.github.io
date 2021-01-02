@@ -12,7 +12,7 @@ Here is my full [CV](/files/Nie_CV.pdf).
 
 ## Employment
 
-* Postdoctoral researcher, Humboldt-Universität zu Berlin, 2021 - present
+* Postdoctoral researcher, Humboldt-Universität zu Berlin, 2021-present
 
 ## Education
 
