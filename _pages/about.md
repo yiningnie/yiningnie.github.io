@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I specialize in syntax and morphology, especially in the domain of argument structure and event structure. I also have an interest in experimental approaches to syntax and morphology, as well as the morphology-phonology interface.
+I specialize in syntax and morphology, especially in the domain of argument structure and event structure, which I investigate from the lens of fieldwork and language acquisition.
 
-I am currently a postdoctoral researcher at Humboldt-Universität zu Berlin on the [LeibnizDream](https://leibnizdream.eu) project, under the supervision of Artemis Alexiadou. I completed my PhD in linguistics at New York University in 2020. I received my BA from the University of Cambridge and MA from the University of Toronto.
+I am currently a postdoctoral researcher at Humboldt-Universität zu Berlin on the ERC-funded project [LeibnizDream](https://leibnizdream.eu) (PIs: Artemis Alexiadou, Uli Sauerland, Maria Teresa Guasti). I completed my PhD in linguistics at New York University in 2020. I received my BA from the University of Cambridge and MA from the University of Toronto.
 
 How to pronounce my name: [jɪˈnɪŋ ˈniː]<br/>
 
