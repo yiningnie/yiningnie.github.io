@@ -10,7 +10,7 @@ Nie, Yining. 2020. [Licensing arguments](/publication/Nie-2020-Licensing-argumen
 
 ## Publications
 
-Kouneli, Maria and Yining Nie. To appear. [Across-the-board tonal polarity in Kipsigis: Implications for the morphology-phonology interface](/publication/Kouneli-2020-Kipsigis). <i>Language</i>.
+Kouneli, Maria and Yining Nie. 2021. [Across-the-board tonal polarity in Kipsigis: Implications for the morphology-phonology interface](/publication/Kouneli-2020-Kipsigis). <i>Language</i> 97(2). e111-e138.
 
 Nie, Yining. 2020. [Morphological causatives are Voice over Voice](/publication/Nie-2020-Morphological-causatives). <i>Word Structure</i> 13(1). 102-126.
 

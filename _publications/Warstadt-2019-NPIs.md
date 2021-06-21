@@ -9,7 +9,7 @@ paperurl:
 citation: 
 ---
 
-Warstadt, Alex, Yu Cao, Ioana Grosu, Wei Peng, Hagen Blix, Yining Nie, Anna Alsop, Shikha Bordia, Haokun Liu, Alicia Parrish, Sheng-Fu Wang, Jason Phang, Anhad Mohananey, Phu Mon Htut, Paloma Jeretic and Samuel R. Bowman. 2019. Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs. <i>Proceedings of EMNLP 2019</i>, 2877–2887. http://dx.doi.org/10.18653/v1/D19-1286
+Warstadt, Alex, Yu Cao, Ioana Grosu, Wei Peng, Hagen Blix, Yining Nie, Anna Alsop, Shikha Bordia, Haokun Liu, Alicia Parrish, Sheng-Fu Wang, Jason Phang, Anhad Mohananey, Phu Mon Htut, Paloma Jeretic and Samuel R. Bowman. 2019. Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs. <i>Proceedings of EMNLP 2019</i>, 2877–2887. [http://dx.doi.org/10.18653/v1/D19-1286](http://dx.doi.org/10.18653/v1/D19-1286)
 
 [Download from ACL](https://www.aclweb.org/anthology/D19-1286)
 

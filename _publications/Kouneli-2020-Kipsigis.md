@@ -3,13 +3,13 @@ title: "Across-the-board tonal polarity in Kipsigis"
 collection: publications
 permalink: /publication/Kouneli-2020-Kipsigis
 excerpt:
-date: 2020-10-27
+date: 2021-06-21
 venue: 
 paperurl: 'https://ling.auf.net/lingbuzz/005520'
 citation: 
 ---
 
-Kouneli, Maria and Yining Nie. To appear. Across-the-board tonal polarity in Kipsigis: Implications for the morphology-phonology interface. <i>Language</i>.
+Kouneli, Maria and Yining Nie. 2021. Across-the-board tonal polarity in Kipsigis: Implications for the morphology-phonology interface. <i>Language</i> 97(2). e111-e138. [https://doi.org/10.1353/lan.2021.0030](https://doi.org/10.1353/lan.2021.0030).
 
 [Download from Lingbuzz](https://ling.auf.net/lingbuzz/005520)
 

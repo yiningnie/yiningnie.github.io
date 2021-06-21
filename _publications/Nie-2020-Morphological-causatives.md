@@ -9,7 +9,7 @@ paperurl: 'http://yiningnie.github.io/files/Nie-2020-Morphological-causatives.pd
 citation: 
 ---
 
-Nie, Yining. 2020. Morphological causatives are Voice over Voice. <i>Word Structure</i> 13(1). 102-126. https://doi.org/10.3366/word.2020.0161
+Nie, Yining. 2020. Morphological causatives are Voice over Voice. <i>Word Structure</i> 13(1). 102-126. [https://doi.org/10.3366/word.2020.0161](https://doi.org/10.3366/word.2020.0161)
 
 [Download paper](http://yiningnie.github.io/files/Nie-2020-Morphological-causatives.pdf)
 
