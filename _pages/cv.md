@@ -20,12 +20,10 @@ Here is my full [CV](/files/Nie_CV.pdf).
 * MA in Linguistics, University of Toronto, 2015
 * BA in Linguistics, Trinity College, University of Cambridge, 2014
 
-## Service and leadership
+## Affiliations
 
-* Linguistic Society of America
+* [LeibnizDream](https://leibnizdream.eu/), HU Berlin
+* [Research Unit on Experimental Syntax and Heritage Languages](https://www.angl.hu-berlin.de/research/respro/RUESHeL/), HU Berlin
+* [Linguistic Society of America](https://www.linguisticsociety.org/)
 	* Member, Executive Committee, 2017-2019
 	* Chair, Committee on Student Issues and Concerns, 2017-2019
-* Department of Linguistics, New York University
-	* Co-organizer, MorphBeer, 2016-2019
-	* President, Linguistics Association of NYU, 2016-2017
-
