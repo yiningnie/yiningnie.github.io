@@ -6,30 +6,49 @@ author_profile: true
 
 ## Dissertation
 
-Nie, Yining. 2020. [Licensing arguments](/publication/Nie-2020-Licensing-arguments). New York University: PhD dissertation.
+Nie, Yining. 2020. <i>Licensing arguments</i>. New York University: PhD dissertation. [lingbuzz](https://ling.auf.net/lingbuzz/005283)
 
-## Publications
+## Publications and Recent Presentations
 
-Kouneli, Maria and Yining Nie. 2021. [Across-the-board tonal polarity in Kipsigis: Implications for the morphology-phonology interface](/publication/Kouneli-2020-Kipsigis). <i>Language</i> 97(2). e111-e138.
+### 2021 and to appear
 
-Nie, Yining. 2020. [Morphological causatives are Voice over Voice](/publication/Nie-2020-Morphological-causatives). <i>Word Structure</i> 13(1). 102-126.
+Kouneli, Maria and Yining Nie. 2021. Across-the-board tonal polarity in Kipsigis: Implications for the morphology-phonology interface. <i>Language</i> 97(2). e111-e138. [https://doi.org/10.1353/lan.2021.0030](https://doi.org/10.1353/lan.2021.0030) [lingbuzz](https://ling.auf.net/lingbuzz/005520)
 
-Manova, Stela, Harald Hammarström, Itamar Kastner and Yining Nie. 2020. [What is in a morpheme?](/publication/Manova-2020-Morpheme) Theoretical, experimental and computational approaches to the relation of meaning and form in morphology. <i>Word Structure</i> 13(1). 1-21.
+Martin, Fabienne, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2021. Wearing causation on its sleeve: Overt CAUSE in child French causatives. BUCLD 46 talk, Boston University (virtual). [slides](/files/Martin-Nie-Alexiadou-Guasti-BU-2021.pdf)
 
-Nie, Yining. 2019. [Raising applicatives and possessors in Tagalog](/publication/Nie-2019-Raising-applicatives). <i>Glossa: a journal of general linguistics</i> 4(1), 139. 1-30.
+Lee, Soo-Hwan and Yining Nie. to appear. Korean case stacking and the nominal template. <i>Proceedings of PLC 45</i>. [pdf](/files/Lee-Nie-2021-PLC.pdf)
 
-Warstadt, Alex, Yu Cao, Ioana Grosu, Wei Peng, Hagen Blix, Yining Nie, Anna Alsop, Shikha Bordia, Haokun Liu, Alicia Parrish, Sheng-Fu Wang, Jason Phang, Anhad Mohananey, Phu Mon Htut, Paloma Jeretic and Samuel R. Bowman. 2019. [Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs](/publication/Warstadt-2019-NPIs). <i>Proceedings of EMNLP 2019</i>.
+### 2020
 
-Hsieh, Henrison and Yining Nie. 2018. [Where (and what) the Tagalog <i>kung</i>-CPs are](/publication/Hsieh-2018-Kung). <i>McGill Working Papers in Linguistics</i> 25.
+Nie, Yining. 2020. Morphological causatives are Voice over Voice. <i>Word Structure</i> 13(1). 102-126. [https://doi.org/10.3366/word.2020.0161](https://doi.org/10.3366/word.2020.0161) [pdf](http://yiningnie.github.io/files/Nie-2020-Morphological-causatives.pdf)
 
-Nie, Yining. 2018. [Contrast and prosody in derived environment effects](/publication/Nie-2018-Derived-environment-effects). <i>Toronto Working Papers in Linguistics</i> 40.
+Manova, Stela, Harald Hammarström, Itamar Kastner and Yining Nie. 2020. What is in a morpheme? Theoretical, experimental and computational approaches to the relation of meaning and form in morphology. <i>Word Structure</i> 13(1). 1-21. [https://doi.org/10.3366/word.2020.0157](https://doi.org/10.3366/word.2020.0157)
 
-Nie, Yining. 2017. [Why is there NOM-NOM and ACC-ACC but no ERG-ERG?](/publication/Nie-2017-ERG-ERG) <i>Proceedings of NELS 47, Volume 2</i>, 315-328.
+Nie, Yining. 2020. Double causatives are real. NELS 51 talk, Université du Québec à Montréal (virtual). [slides](/files/Nie-2020-NELS.pdf).
 
-Nie, Yining. 2017. [Phonetic enhancement and three patterns of English <i>a</i>-tensing](/publication/Nie-2017-A-tensing). <i>Proceedings of PLC 40</i>, Article 21.
+Hsieh, Henrison and Yining Nie. 2020. Tagalog gerunds are antipassive. "Remarks: the Legacy" Workshop, GLOW 43, Humboldt-Universität zu Berlin (virtual). [link](https://osf.io/ztnek/).
 
-Nie, Yining. 2015. [Tense and modality in French verbal morphology](/publication/Nie-2015-French-tense). <i>Proceedings of CLA 2015</i>.
+### 2019
 
-## Manuscripts
+Nie, Yining. 2019. Raising applicatives and possessors in Tagalog. <i>Glossa: a journal of general linguistics</i> 4(1), 139. 1-30. [http://doi.org/10.5334/gjgl.941](http://doi.org/10.5334/gjgl.941)
 
-Nie, Yining. 2017. [Voice morphology and the features of transitivity](/publication/Nie-2017-Voice-morphology). New York University: ms.
+Warstadt, Alex, Yu Cao, Ioana Grosu, Wei Peng, Hagen Blix, Yining Nie, Anna Alsop, Shikha Bordia, Haokun Liu, Alicia Parrish, Sheng-Fu Wang, Jason Phang, Anhad Mohananey, Phu Mon Htut, Paloma Jeretic and Samuel R. Bowman. 2019. Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs. <i>Proceedings of EMNLP 2019</i>. [http://dx.doi.org/10.18653/v1/D19-1286](http://dx.doi.org/10.18653/v1/D19-1286)
+
+### 2018
+
+Hsieh, Henrison and Yining Nie. 2018. Where (and what) the Tagalog <i>kung</i>-CPs are. <i>McGill Working Papers in Linguistics</i> 25. [link](http://people.linguistics.mcgill.ca/~mcgwpl/McGWPL/2018v25n01/2018-25-1_Hsieh_Nie.pdf)
+
+Nie, Yining. 2018. Contrast and prosody in derived environment effects. <i>Toronto Working Papers in Linguistics</i> 40. [link](https://twpl.library.utoronto.ca/index.php/twpl/article/view/29188)
+
+### 2017
+
+Nie, Yining. 2017. Voice morphology and the features of transitivity. New York University: ms. [lingbuzz](http://ling.auf.net/lingbuzz/003750)
+
+Nie, Yining. 2017. Why is there NOM-NOM and ACC-ACC but no ERG-ERG?= <i>Proceedings of NELS 47, Volume 2</i>, 315-328. [pdf](http://yiningnie.github.io/files/Nie-2017-ERG-ERG.pdf)
+
+Nie, Yining. 2017. Phonetic enhancement and three patterns of English <i>a</i>-tensing. <i>Proceedings of PLC 40</i>, Article 21. [link](https://repository.upenn.edu/pwpl/vol23/iss1/21/)
+
+### 2015
+
+Nie, Yining. 2015. Tense and modality in French verbal morphology. <i>Proceedings of CLA 2015</i>.
+[link](http://cla-acl.ca/wp-content/uploads/Nie-2015.pdf)
