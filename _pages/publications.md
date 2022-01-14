@@ -10,13 +10,17 @@ Nie, Yining. 2020. <i>Licensing arguments</i>. New York University: PhD disserta
 
 ## Publications and Recent Presentations
 
-<b>2021 and to appear</b>
+<b>Forthcoming</b>
+
+Nie, Yining. Accepted. Turkish causatives are recursive:~A response to Key (2013). <i>Linguistic Inquiry</i>. (pending minor revisions)
+
+Lee, Soo-Hwan and Yining Nie. To appear. Korean case stacking and the nominal template. <i>Proceedings of PLC 45</i>. [[pdf](/files/Lee-Nie-2021-PLC.pdf)]
+
+<b>2021</b>
 
 Kouneli, Maria and Yining Nie. 2021. Across-the-board tonal polarity in Kipsigis: Implications for the morphology-phonology interface. <i>Language</i> 97(2). e111-e138. https://doi.org/10.1353/lan.2021.0030 [[lingbuzz](https://ling.auf.net/lingbuzz/005520)]
 
 Martin, Fabienne, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2021. Wearing causation on its sleeve: Overt CAUSE in child French causatives. BUCLD 46 talk, Boston University (virtual). [[slides](/files/Martin-Nie-Alexiadou-Guasti-BU-2021.pdf)]
-
-Lee, Soo-Hwan and Yining Nie. to appear. Korean case stacking and the nominal template. <i>Proceedings of PLC 45</i>. [[pdf](/files/Lee-Nie-2021-PLC.pdf)]
 
 <b>2020</b>
 
