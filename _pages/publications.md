@@ -12,7 +12,7 @@ Nie, Yining. 2020. <i>Licensing arguments</i>. New York University: PhD disserta
 
 <b>Forthcoming</b>
 
-Nie, Yining. Accepted. Turkish causatives are recursive: A response to Key (2013). <i>Linguistic Inquiry</i>. (pending minor revisions)
+Nie, Yining. Accepted. Turkish causatives are recursive: A response to Key (2013). <i>Linguistic Inquiry</i>. (minor revisions, email me for a copy)
 
 Lee, Soo-Hwan and Yining Nie. To appear. Korean case stacking and the nominal template. <i>Proceedings of PLC 45</i>. [[pdf](/files/Lee-Nie-2021-PLC.pdf)]
 
