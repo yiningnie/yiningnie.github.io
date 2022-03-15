@@ -24,7 +24,6 @@ Nie, Yining. 2020. <i>Licensing arguments</i>. New York University: PhD disserta
 
 - Nie, Yining. 2020. Morphological causatives are Voice over Voice. <i>Word Structure</i> 13(1). 102-126.
 [https://doi.org/10.3366/word.2020.0161](https://doi.org/10.3366/word.2020.0161) [[paper](http://yiningnie.github.io/files/Nie-2020-Morphological-causatives.pdf)]
-
 - Manova, Stela, Harald Hammarström, Itamar Kastner and Yining Nie. 2020. What is in a morpheme? Theoretical, experimental and computational approaches to the relation of meaning and form in morphology. <i>Word Structure</i> 13(1). 1-21.
 [https://doi.org/10.3366/word.2020.0157](https://doi.org/10.3366/word.2020.0157) [[paper](/files/Manova-2020-Morpheme.pdf)]
 - Nie, Yining. 2020. Double causatives are real. NELS 51 talk, Université du Québec à Montréal (virtual). [[slides](/files/Nie-2020-NELS.pdf)]
