@@ -57,7 +57,7 @@ font-size: 12px; // change to whatever
 }
 
 @include breakpoint($medium-wide) {
-font-size: 14px; // change to whatever
+font-size: 12px; // change to whatever
 }
 
 @include breakpoint($large) {
