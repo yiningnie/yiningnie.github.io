@@ -40,20 +40,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-@charset "utf-8";
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-
-/* type scale */
-$type-size-1: 1.5em
-$type-size-2: 1.25em
-$type-size-3: 1em 
-$type-size-4: 0.9em
-$type-size-5: 0.8em
-$type-size-6: 0.7em
-$type-size-7: 0.65em
-$type-size-8: 0.6em
-
 @import "minimal-mistakes"; // main partials
 
 html {
