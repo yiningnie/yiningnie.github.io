@@ -45,8 +45,8 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 
 /* type scale */
-$type-size-1: 1em !default;
-$type-size-2: 1em !default;
+$type-size-1: 1.5em !default;
+$type-size-2: 1.25em !default;
 $type-size-3: 1em !default;
 $type-size-4: 0.9em !default;
 $type-size-5: 0.8em !default;
