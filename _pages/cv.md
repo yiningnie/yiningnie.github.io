@@ -10,12 +10,9 @@ redirect_from:
 
 Here is my full [CV](/files/Nie_CV.pdf).
 
-## Employment
+## Employment and Education
 
 * Postdoctoral researcher, Humboldt-Universität zu Berlin, 2021-present
-
-## Education
-
 * PhD in Linguistics, New York University, 2020
 * MA in Linguistics, University of Toronto, 2015
 * BA in Linguistics, Trinity College, University of Cambridge, 2014
