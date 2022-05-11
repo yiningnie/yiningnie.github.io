@@ -8,13 +8,17 @@ author_profile: true
 
 Nie, Yining. 2020. <i>Licensing arguments</i>. New York University: PhD dissertation. [[lingbuzz](https://ling.auf.net/lingbuzz/005283)]
 
-## Papers and Recent Presentations
+## Papers and Selected Presentations
 
 <b>Forthcoming</b>
 
-- Nie, Yining. Accepted. Turkish causatives are recursive: A response to Key (2013). <i>Linguistic Inquiry</i>. (minor revisions, email for a copy)
+- Nie, Yining. Accepted. Turkish causatives are recursive: A response to Key (2013). <i>Linguistic Inquiry</i>. (minor revisions, email me for a copy)
 - Martin, Fabienne, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. To appear. Wearing causation on its sleeve: Overt <i>cause</i> in child French causatives. <i>Proceedings of BUCLD 46</i>. [[paper](/files/Martin-Nie-Alexiadou-Guasti-BUCLD46-paper.pdf)]
 - Lee, Soo-Hwan and Yining Nie. To appear. Korean case stacking and the nominal template. <i>Proceedings of PLC 45</i>. [[paper](/files/Lee-Nie-2021-PLC.pdf)]
+
+<b>2022</b>
+
+- Hein, Johannes, Fabienne Martin, Yining and Artemis Alexiadou. 2022. Minimizing and maximizing exponence in child language. WCCFL 40 (virtual). [https://osf.io/xkrbq/](https://osf.io/xkrbq/)
 
 <b>2021</b>
 
