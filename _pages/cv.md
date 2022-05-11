@@ -10,7 +10,7 @@ redirect_from:
 
 Here is my full [CV](/files/Nie_CV.pdf).
 
-## Employment and Education
+## Education and Experience
 
 * Postdoctoral researcher, Department of English and American Studies, Humboldt-Universität zu Berlin, 2021-present
 * PhD, Department of Linguistics, New York University, 2020
@@ -19,8 +19,8 @@ Here is my full [CV](/files/Nie_CV.pdf).
 
 ## Affiliations
 
-* [Realizing Leibniz’s Dream: Child Languages as a Mirror of the Mind](https://leibnizdream.eu/), HU Berlin
-* [Research Unit on (Experimental) Syntax and Heritage Languages](https://www.angl.hu-berlin.de/research/respro/RUESHeL/), HU Berlin
+* [Realizing Leibniz’s Dream: Child Languages as a Mirror of the Mind](https://leibnizdream.eu/), Compressor Group, Humboldt-Universität zu Berlin
+* [Research Unit on (Experimental) Syntax and Heritage Languages](https://www.angl.hu-berlin.de/research/respro/RUESHeL/), Humboldt-Universität zu Berlin
 * [Linguistic Society of America](https://www.linguisticsociety.org/)
 	* Committee on Linguistic Institutes and Fellowships, 2022-present
 	* Executive Committee, 2017-2019
