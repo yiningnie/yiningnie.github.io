@@ -10,12 +10,12 @@ redirect_from:
 
 Here is my full [CV](/files/Nie_CV.pdf).
 
-## Education and Experience
+## Academic History
 
 * Postdoctoral researcher, Department of English and American Studies, Humboldt-Universität zu Berlin, 2021-present
-* PhD, Department of Linguistics, New York University, 2020
-* MA, Department of Linguistics, University of Toronto, 2015
-* BA, Trinity College, University of Cambridge, 2014
+* Ph.D., Department of Linguistics, New York University, 2020
+* M.A., Department of Linguistics, University of Toronto, 2015
+* B.A., Trinity College, University of Cambridge, 2014
 
 ## Affiliations
 

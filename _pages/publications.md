@@ -13,7 +13,7 @@ Nie, Yining. 2020. <i>Licensing arguments</i>. New York University: PhD disserta
 <b>Forthcoming</b>
 
 - Nie, Yining. To appear. Turkish causatives are recursive: A response to Key 2013. <i>Linguistic Inquiry</i>.
-[https://doi.org/10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472) [[paper](https://lingbuzz.net/lingbuzz/006636)]
+[https://doi.org/10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472) [[lingbuzz](https://lingbuzz.net/lingbuzz/006636)]
 - Lee, Soo-Hwan and Yining Nie. To appear. Korean case stacking and the nominal template. <i>Proceedings of PLC 45</i>. [[paper](/files/Lee-Nie-2021-PLC.pdf)]
 
 <b>2022</b>
@@ -50,6 +50,7 @@ Nie, Yining. 2020. <i>Licensing arguments</i>. New York University: PhD disserta
 
 - Nie, Yining. 2017. Voice morphology and the features of transitivity. New York University: ms. [[lingbuzz](http://ling.auf.net/lingbuzz/003750)]
 - Nie, Yining. 2017. Why is there NOM-NOM and ACC-ACC but no ERG-ERG? <i>Proceedings of NELS 47, Volume 2</i>, 315-328. [[paper](http://yiningnie.github.io/files/Nie-2017-ERG-ERG.pdf)]
+   - Supersedes: Nie, Yining. 2016. Why is there NOM-NOM but no ERG-ERG? <i>Toronto Working Papers in Linguistics</i> 36. [[paper](https://twpl.library.utoronto.ca/index.php/twpl/article/view/26702)]
 - Nie, Yining. 2017. Phonetic enhancement and three patterns of English <i>a</i>-tensing. <i>Proceedings of PLC 40</i>, Article 21. [[paper](https://repository.upenn.edu/pwpl/vol23/iss1/21/)]
 
 <b>2015</b>
