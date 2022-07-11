@@ -39,7 +39,7 @@ Nie, Yining. 2020. <i>Licensing arguments</i>. New York University: PhD disserta
 - Nie, Yining. 2019. Raising applicatives and possessors in Tagalog. <i>Glossa: a journal of general linguistics</i> 4(1), 139. 1-30.
 [http://doi.org/10.5334/gjgl.941](http://doi.org/10.5334/gjgl.941)
 - Warstadt, Alex, Yu Cao, Ioana Grosu, Wei Peng, Hagen Blix, Yining Nie, Anna Alsop, Shikha Bordia, Haokun Liu, Alicia Parrish, Sheng-Fu Wang, Jason Phang, Anhad Mohananey, Phu Mon Htut, Paloma Jeretic and Samuel R. Bowman. 2019. Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs. <i>Proceedings of EMNLP 2019</i>.
-[http://dx.doi.org/10.18653/v1/D19-1286](http://dx.doi.org/10.18653/v1/D19-1286)
+[http://doi.org/10.18653/v1/D19-1286](http://doi.org/10.18653/v1/D19-1286)
 
 <b>2018</b>
 
