@@ -19,7 +19,7 @@ Nie, Yining. 2020. <i>Licensing arguments</i>. New York University: PhD disserta
 <b>2022</b>
 
 - Martin, Fabienne, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2022. Wearing causation on its sleeve: Overt <i>cause</i> in child French causatives. <i>Proceedings of BUCLD 46</i>, 497-510. [[paper](http://www.lingref.com/bucld/46/BUCLD46-38.pdf)]
-   - 2021. BUCLD 46. [[slides](/files/Martin-Nie-Alexiadou-Guasti-BU-2021.pdf)]
+   -  2021. BUCLD 46. [[slides](/files/Martin-Nie-Alexiadou-Guasti-BU-2021.pdf)]
 - Hein, Johannes, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2022. Minimizing and maximizing exponence in child language. WCCFL 40, Stanford University (virtual). [https://osf.io/xkrbq/](https://osf.io/xkrbq/)
 
 <b>2021</b>
