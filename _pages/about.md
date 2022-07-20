@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Assistant Professor
+Assistant Professor<br>
 [Department of Linguistics and Language Development](https://www.sjsu.edu/linguistics/)<br>
 San José State University<br>
 yining.nie(æt)sjsu.edu
