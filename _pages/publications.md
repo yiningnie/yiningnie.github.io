@@ -15,12 +15,14 @@ Nie, Yining. 2020. <i>Licensing arguments</i>. New York University: PhD disserta
 - Nie, Yining. To appear. Turkish causatives are recursive: A response to Key 2013. <i>Linguistic Inquiry</i>.
 [https://doi.org/10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472) [[lingbuzz](https://lingbuzz.net/lingbuzz/006636)]
 - Lee, Soo-Hwan and Yining Nie. To appear. Korean case stacking and the nominal template. <i>Proceedings of PLC 45</i>. [[paper](/files/Lee-Nie-2021-PLC.pdf)]
+- Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Errors of multiple exponence in child language. Proceedings of WCCFL 40. [lingbuzz](https://ling.auf.net/lingbuzz/006784)
+- 2022. WCCFL 40 presentation, Stanford University (virtual). [https://osf.io/xkrbq/](https://osf.io/xkrbq/)
 
 <b>2022</b>
 
 - Martin, Fabienne, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2022. Wearing causation on its sleeve: Overt <i>cause</i> in child French causatives. <i>Proceedings of BUCLD 46</i>, 497-510. [[paper](http://www.lingref.com/bucld/46/BUCLD46-38.pdf)]
    -  2021\. BUCLD 46 presentation. [[slides](/files/Martin-Nie-Alexiadou-Guasti-BU-2021.pdf)]
-- Hein, Johannes, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2022. Minimizing and maximizing exponence in child language. WCCFL 40, Stanford University (virtual). [https://osf.io/xkrbq/](https://osf.io/xkrbq/)
+
 
 <b>2021</b>
 
