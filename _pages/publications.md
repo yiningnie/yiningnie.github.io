@@ -16,7 +16,7 @@ Nie, Yining. 2020. <i>Licensing arguments</i>. New York University: PhD disserta
 [https://doi.org/10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472) [[lingbuzz](https://lingbuzz.net/lingbuzz/006636)]
 - Lee, Soo-Hwan and Yining Nie. To appear. Korean case stacking and the nominal template. <i>Proceedings of PLC 45</i>. [[paper](/files/Lee-Nie-2021-PLC.pdf)]
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Errors of multiple exponence in child language. Proceedings of WCCFL 40. [lingbuzz](https://ling.auf.net/lingbuzz/006784)
-- 2022. WCCFL 40 presentation, Stanford University (virtual). [https://osf.io/xkrbq/](https://osf.io/xkrbq/)
+- 2022\. WCCFL 40 presentation, Stanford University (virtual). [https://osf.io/xkrbq/](https://osf.io/xkrbq/)
 
 <b>2022</b>
 
