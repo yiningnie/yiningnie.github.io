@@ -8,19 +8,22 @@ I am a linguist specializing in comparative syntax and morphology, especially in
 
 In addition to teaching syntax and semantics at San José State, I am also affiliated with the ERC-funded [LeibnizDream](https://leibnizdream.eu) project. I received my PhD from [New York University](https://as.nyu.edu/departments/linguistics/homepage.html).
 
-Here is my full [CV](/files/Nie_CV.pdf). 
-
 How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ## Recent news
 
-- Korean case stacking and the nominal template<br>PLC 45 proceedings paper (with Soo-Hwan Lee) [[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
-- The agent bias holds in production too: Event descriptions in child Italian
-  BUCLD 47 talk (with Silvia Silleresi, Chiara Dal Farra, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti) [[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
-- Recursion and thematic relations in causatives<br>BCGL 15 talk [[slides](/files/Nie-2022-BCGL.pdf)]
-- Turkish causatives are recursive: A response to Key 2013<br>LI squib (online early) [[DOI](https://doi.org/10.1162/ling_a_00472)] [[paper](https://lingbuzz.net/lingbuzz/006636)]
+- Korean case stacking and the nominal template.<br>*Proceedings of PLC 45* (with Soo-Hwan Lee). [[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
 
-# <a name="publications"></a>Publications
+- The agent bias holds in production too: Event descriptions in child Italian.<br>
+  *BUCLD 47* talk (with Silvia Silleresi, Chiara Dal Farra, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti). [[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
+
+- Recursion and thematic relations in causatives<br>*BCGL 15* talk. [[slides](/files/Nie-2022-BCGL.pdf)]
+
+- Turkish causatives are recursive: A response to Key 2013<br>*Linguistic Inquiry* squib (online early). [[DOI](https://doi.org/10.1162/ling_a_00472)] [[paper](https://lingbuzz.net/lingbuzz/006636)]
+
+<a name="publications"></a>
+
+# Publications
 
 ## Dissertation
 
@@ -58,7 +61,9 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 - Nie, Yining. 2015. Tense and modality in French verbal morphology.<br><i>Proceedings of CLA 2015</i>. [[paper](http://cla-acl.ca/wp-content/uploads/Nie-2015.pdf)]
 
-# <a name="talks"></a>Talks
+<a name="talks"></a>
+
+# Talks
 
 - Silleresi, Silvia, Chiara Dal Farra, Yining Nie, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti. 2022. The agent bias holds in production too: Event descriptions in child Italian.<br>*BUCLD 47*, Boston University. [[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
 
