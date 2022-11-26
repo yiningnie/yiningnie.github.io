@@ -1,0 +1,13 @@
+current directory: /Users/yiningnie/Documents/GitHub/yiningnie.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/2.7.2/lib/ruby/2.7.0 -r ./siteconf20221125-28107-1kyvpbu.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yiningnie/Documents/GitHub/yiningnie.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR=" clean
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+current directory: /Users/yiningnie/Documents/GitHub/yiningnie.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR="
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+make failed, exit code 1
