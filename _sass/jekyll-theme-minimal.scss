@@ -23,10 +23,11 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:20px;
 }
 
 h2 {
+  font-size:18px;
   color:#393939;
 }
 
@@ -41,7 +42,6 @@ a {
 
 a:hover, a:focus {
   color:#069;
-  font-weight: bold;
 }
 
 a small {
@@ -181,7 +181,7 @@ strong {
 }
 
 section {
-  width:500px;
+  width:570px;
   float:right;
   padding-bottom:50px;
 }

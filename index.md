@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About
+# About
 
 I am a linguist specializing in comparative syntax and morphology, especially in the domain of argument structure. My research incorporates syntactic theory and insights from typology and language acquisition. I have a particular interest in causative constructions and Austronesian languages.
 
@@ -12,26 +12,24 @@ Here is my full [CV](/files/Nie_CV.pdf).
 
 How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
-### Recent news
+## Recent news
 
-PLC 45 proceedings paper (with Soo-Hwan Lee)<br>
-Korean case stacking and the nominal template. [[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
+- PLC 45 proceedings paper (with Soo-Hwan Lee)<br>
+  Korean case stacking and the nominal template. [[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
 
-BUCLD 47 talk (with Silvia Silleresi, Chiara Dal Farra, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti)<br>The agent bias holds in production too: Event descriptions in child Italian. [[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
+- BUCLD 47 talk (with Silvia Silleresi, Chiara Dal Farra, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti)<br>The agent bias holds in production too: Event descriptions in child Italian. [[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
 
-BCGL 15 talk<br>Recursion and thematic relations in causatives. [[slides](/files/Nie-2022-BCGL.pdf)]
+- BCGL 15 talk<br>Recursion and thematic relations in causatives. [[slides](/files/Nie-2022-BCGL.pdf)]
 
-LI squib (online early)<br>Turkish causatives are recursive: A response to Key 2013 [[DOI](https://doi.org/10.1162/ling_a_00472)] [[paper](https://lingbuzz.net/lingbuzz/006636)]
+- LI squib (online early)<br>Turkish causatives are recursive: A response to Key 2013 [[DOI](https://doi.org/10.1162/ling_a_00472)] [[paper](https://lingbuzz.net/lingbuzz/006636)]
 
+# <a name="publications"></a>Publications
 
-
-## Publications
-
-### Dissertation
+## Dissertation
 
 Nie, Yining. 2020. <i>Licensing arguments</i>. New York University: PhD dissertation.<br>[[lingbuzz](https://ling.auf.net/lingbuzz/005283)]
 
-### Papers
+## Papers
 
 Nie, Yining. To appear. Turkish causatives are recursive: A response to Key 2013. <i>Linguistic Inquiry</i>.<br>[[DOI](https://doi.org/10.1162/ling_a_00472)] [[paper](https://lingbuzz.net/lingbuzz/006636)]
 
@@ -69,9 +67,7 @@ Nie, Yining. 2017. Phonetic enhancement and three patterns of English <i>a</i>-t
 
 Nie, Yining. 2015. Tense and modality in French verbal morphology. <i>Proceedings of CLA 2015</i>.<br>[[paper](http://cla-acl.ca/wp-content/uploads/Nie-2015.pdf)]
 
-
-
-## Talks
+# <a name="talks"></a>Talks
 
 Silleresi, Silvia, Chiara Dal Farra, Yining Nie, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti. 2022. The agent bias holds in production too: Event descriptions in child Italian. *BUCLD 47*, Boston University.<br>[[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
 
