@@ -15,9 +15,9 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 - Korean case stacking and the nominal template.<br>*Proceedings of PLC 45* (with Soo-Hwan Lee). [[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
 
 - The agent bias holds in production too: Event descriptions in child Italian.<br>
-  *BUCLD 47* talk (with Silvia Silleresi, Chiara Dal Farra, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti). [[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
+  *BUCLD 47* talk (with Silvia Silleresi, Chiara Dal Farra, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti), Boston University. [[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
 
-- Recursion and thematic relations in causatives.<br>*BCGL 15* talk. [[slides](/files/Nie-2022-BCGL.pdf)]
+- Recursion and thematic relations in causatives.<br>*BCGL 15* talk, CRISSP, KU Leuven. [[slides](/files/Nie-2022-BCGL.pdf)]
 
 - Turkish causatives are recursive: A response to Key 2013.<br>*Linguistic Inquiry* squib (online early). [[DOI](https://doi.org/10.1162/ling_a_00472)] [[paper](https://lingbuzz.net/lingbuzz/006636)]
 
