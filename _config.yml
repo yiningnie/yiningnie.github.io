@@ -1,15 +1,9 @@
 title: Yining Nie
 logo: /assets/img/Nie.jpg
 
-url: https://yiningnie.github.io
+url: "https://yiningnie.github.io"
+email: "yining.nie@sjsu.edu"
 
-description: Assistant Professor<br>[Linguistics and Language Development](https://www.sjsu.edu/linguistics/)<br>
-San José State University<br>
-yining.nie(æt)sjsu.edu
-show_downloads: true
-google_analytics:
+description: Assistant Professor<br>[Linguistics and Language Development](https://www.sjsu.edu/linguistics/)<br>San José State University<br>yining.nie(æt)sjsu.edu
+
 theme: jekyll-theme-minimal
-
-author:
-  googlescholar: "https://scholar.google.com/citations?user=5EHAe34AAAAJ&hl=en"
-  email: "yining.nie@sjsu.edu"
