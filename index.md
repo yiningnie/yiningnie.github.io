@@ -14,69 +14,60 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ## Recent news
 
-- PLC 45 proceedings paper (with Soo-Hwan Lee)<br>
-  Korean case stacking and the nominal template. [[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
-
-- BUCLD 47 talk (with Silvia Silleresi, Chiara Dal Farra, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti)<br>The agent bias holds in production too: Event descriptions in child Italian. [[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
-
-- BCGL 15 talk<br>Recursion and thematic relations in causatives. [[slides](/files/Nie-2022-BCGL.pdf)]
-
-- LI squib (online early)<br>Turkish causatives are recursive: A response to Key 2013 [[DOI](https://doi.org/10.1162/ling_a_00472)] [[paper](https://lingbuzz.net/lingbuzz/006636)]
+- Korean case stacking and the nominal template<br>PLC 45 proceedings paper (with Soo-Hwan Lee) [[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
+- The agent bias holds in production too: Event descriptions in child Italian
+  BUCLD 47 talk (with Silvia Silleresi, Chiara Dal Farra, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti) [[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
+- Recursion and thematic relations in causatives<br>BCGL 15 talk [[slides](/files/Nie-2022-BCGL.pdf)]
+- Turkish causatives are recursive: A response to Key 2013<br>LI squib (online early) [[DOI](https://doi.org/10.1162/ling_a_00472)] [[paper](https://lingbuzz.net/lingbuzz/006636)]
 
 # <a name="publications"></a>Publications
 
 ## Dissertation
 
-Nie, Yining. 2020. <i>Licensing arguments</i>. New York University: PhD dissertation.<br>[[lingbuzz](https://ling.auf.net/lingbuzz/005283)]
+- Nie, Yining. 2020. <i>Licensing arguments</i>. New York University: PhD dissertation.<br>[[lingbuzz](https://ling.auf.net/lingbuzz/005283)]
 
 ## Papers
 
-Nie, Yining. To appear. Turkish causatives are recursive: A response to Key 2013. <i>Linguistic Inquiry</i>.<br>[[DOI](https://doi.org/10.1162/ling_a_00472)] [[paper](https://lingbuzz.net/lingbuzz/006636)]
+- Nie, Yining. To appear. Turkish causatives are recursive: A response to Key 2013.<br><i>Linguistic Inquiry</i>. [[DOI](https://doi.org/10.1162/ling_a_00472)] [[paper](https://lingbuzz.net/lingbuzz/006636)]
 
-Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Errors of multiple exponence in child language. <i>Proceedings of WCCFL 40</i>.<br>[[paper](https://ling.auf.net/lingbuzz/006784)]
+- Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Errors of multiple exponence in child language.<br><i>Proceedings of WCCFL 40</i>. [[paper](https://ling.auf.net/lingbuzz/006784)]
 
-Lee, Soo-Hwan and Yining Nie. 2022. Korean case stacking and the nominal template. <i>Proceedings of PLC 45</i>.<br>[[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
+- Lee, Soo-Hwan and Yining Nie. 2022. Korean case stacking and the nominal template.<br><i>Proceedings of PLC 45</i>. [[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
 
-Martin, Fabienne, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2022. Wearing causation on its sleeve: Overt <i>cause</i> in child French causatives. <i>Proceedings of BUCLD 46</i>.<br>[[paper](http://www.lingref.com/bucld/46/BUCLD46-38.pdf)]
+- Martin, Fabienne, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2022. Wearing causation on its sleeve: Overt <i>cause</i> in child French causatives.<br><i>Proceedings of BUCLD 46</i>. [[paper](http://www.lingref.com/bucld/46/BUCLD46-38.pdf)]
 
-Kouneli, Maria and Yining Nie. 2021. Across-the-board tonal polarity in Kipsigis: Implications for the morphology-phonology interface. <i>Language</i> 97(2). e111-e138.<br>[[DOI](https://doi.org/10.1353/lan.2021.0030)] [[paper](https://ling.auf.net/lingbuzz/005520)]
+- Kouneli, Maria and Yining Nie. 2021. Across-the-board tonal polarity in Kipsigis: Implications for the morphology-phonology interface.<br><i>Language</i> 97(2). e111-e138. [[DOI](https://doi.org/10.1353/lan.2021.0030)] [[paper](https://ling.auf.net/lingbuzz/005520)]
 
-Nie, Yining. 2020. Morphological causatives are Voice over Voice. <i>Word Structure</i> 13(1). 102-126.<br>
-[[DOI](https://doi.org/10.3366/word.2020.0161)] [[paper](http://yiningnie.github.io/files/Nie-2020-Morphological-causatives.pdf)]
+- Nie, Yining. 2020. Morphological causatives are Voice over Voice.<br> <i>Word Structure</i> 13(1). 102-126. [[DOI](https://doi.org/10.3366/word.2020.0161)] [[paper](http://yiningnie.github.io/files/Nie-2020-Morphological-causatives.pdf)]
 
-Manova, Stela, Harald Hammarström, Itamar Kastner and Yining Nie. 2020. What is in a morpheme? Theoretical, experimental and computational approaches to the relation of meaning and form in morphology. <i>Word Structure</i> 13(1). 1-21.<br>
-[[DOI](https://doi.org/10.3366/word.2020.0157)] [[paper](/files/Manova-2020-Morpheme.pdf)]
+- Manova, Stela, Harald Hammarström, Itamar Kastner and Yining Nie. 2020. What is in a morpheme? Theoretical, experimental and computational approaches to the relation of meaning and form in morphology.<br><i>Word Structure</i> 13(1). 1-21. [[DOI](https://doi.org/10.3366/word.2020.0157)] [[paper](/files/Manova-2020-Morpheme.pdf)]
 
-Nie, Yining. 2019. Raising applicatives and possessors in Tagalog. <i>Glossa: a journal of general linguistics</i> 4(1), 139. 1-30.<br>
-[[DOI](http://doi.org/10.5334/gjgl.941)]
+- Nie, Yining. 2019. Raising applicatives and possessors in Tagalog.<br><i>Glossa: a journal of general linguistics</i> 4(1), 139. 1-30. [[DOI](http://doi.org/10.5334/gjgl.941)]
 
-Warstadt, Alex, Yu Cao, Ioana Grosu, Wei Peng, Hagen Blix, Yining Nie, Anna Alsop, Shikha Bordia, Haokun Liu, Alicia Parrish, Sheng-Fu Wang, Jason Phang, Anhad Mohananey, Phu Mon Htut, Paloma Jeretic and Samuel R. Bowman. 2019. Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs. <i>Proceedings of EMNLP 2019</i>.<br>
-[[DOI](http://doi.org/10.18653/v1/D19-1286)]
+- Warstadt, Alex, Yu Cao, Ioana Grosu, Wei Peng, Hagen Blix, Yining Nie, Anna Alsop, Shikha Bordia, Haokun Liu, Alicia Parrish, Sheng-Fu Wang, Jason Phang, Anhad Mohananey, Phu Mon Htut, Paloma Jeretic and Samuel R. Bowman. 2019. Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs.<br><i>Proceedings of EMNLP 2019</i>. [[DOI](http://doi.org/10.18653/v1/D19-1286)]
 
-Hsieh, Henrison and Yining Nie. 2018. Where (and what) the Tagalog <i>kung</i>-CPs are. <i>McGill Working Papers in Linguistics</i> 25.<br>[[paper](http://people.linguistics.mcgill.ca/~mcgwpl/McGWPL/2018v25n01/2018-25-1_Hsieh_Nie.pdf)]
+- Hsieh, Henrison and Yining Nie. 2018. Where (and what) the Tagalog <i>kung</i>-CPs are.<br><i>McGill Working Papers in Linguistics</i> 25. [[paper](http://people.linguistics.mcgill.ca/~mcgwpl/McGWPL/2018v25n01/2018-25-1_Hsieh_Nie.pdf)]
 
-Nie, Yining. 2018. Contrast and prosody in derived environment effects. <i>Toronto Working Papers in Linguistics</i> 40.<br>[[paper](https://twpl.library.utoronto.ca/index.php/twpl/article/view/29188)]
+- Nie, Yining. 2018. Contrast and prosody in derived environment effects.<br><i>Toronto Working Papers in Linguistics</i> 40. [[paper](https://twpl.library.utoronto.ca/index.php/twpl/article/view/29188)]
 
-Nie, Yining. 2017. Voice morphology and the features of transitivity. New York University: ms.<br>[[paper](http://ling.auf.net/lingbuzz/003750)]
+- Nie, Yining. 2017. Voice morphology and the features of transitivity.<br>New York University: ms. [[paper](http://ling.auf.net/lingbuzz/003750)]
 
-Nie, Yining. 2017. Why is there NOM-NOM and ACC-ACC but no ERG-ERG? <i>Proceedings of NELS 47</i>.<br>[[paper](http://yiningnie.github.io/files/Nie-2017-ERG-ERG.pdf)]
+- Nie, Yining. 2017. Why is there NOM-NOM and ACC-ACC but no ERG-ERG?<br><i>Proceedings of NELS 47</i>. [[paper](http://yiningnie.github.io/files/Nie-2017-ERG-ERG.pdf)]
+  - Supersedes: Nie, Yining. 2016. Why is there NOM-NOM but no ERG-ERG?<br> <i>Toronto Working Papers in Linguistics</i> 36. [[paper](https://twpl.library.utoronto.ca/index.php/twpl/article/view/26702)]
+- Nie, Yining. 2017. Phonetic enhancement and three patterns of English <i>a</i>-tensing.<br><i>Proceedings of PLC 40</i>. [[paper](https://repository.upenn.edu/pwpl/vol23/iss1/21/)]
 
-Supersedes: Nie, Yining. 2016. Why is there NOM-NOM but no ERG-ERG? <i>Toronto Working Papers in Linguistics</i> 36.<br>[[paper](https://twpl.library.utoronto.ca/index.php/twpl/article/view/26702)]
-
-Nie, Yining. 2017. Phonetic enhancement and three patterns of English <i>a</i>-tensing. <i>Proceedings of PLC 40</i>.<br>[[paper](https://repository.upenn.edu/pwpl/vol23/iss1/21/)]
-
-Nie, Yining. 2015. Tense and modality in French verbal morphology. <i>Proceedings of CLA 2015</i>.<br>[[paper](http://cla-acl.ca/wp-content/uploads/Nie-2015.pdf)]
+- Nie, Yining. 2015. Tense and modality in French verbal morphology.<br><i>Proceedings of CLA 2015</i>. [[paper](http://cla-acl.ca/wp-content/uploads/Nie-2015.pdf)]
 
 # <a name="talks"></a>Talks
 
-Silleresi, Silvia, Chiara Dal Farra, Yining Nie, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti. 2022. The agent bias holds in production too: Event descriptions in child Italian. *BUCLD 47*, Boston University.<br>[[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
+- Silleresi, Silvia, Chiara Dal Farra, Yining Nie, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti. 2022. The agent bias holds in production too: Event descriptions in child Italian.<br>*BUCLD 47*, Boston University. [[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
 
-Nie, Yining. 2022. Recursion and thematic relations in causatives. *BCGL 15*, CRISSP, KU Leuven.<br>[[slides](/files/Nie-2022-BCGL.pdf)]
+- Nie, Yining. 2022. Recursion and thematic relations in causatives.<br>*BCGL 15*, CRISSP, KU Leuven. [[slides](/files/Nie-2022-BCGL.pdf)]
 
-Hein, Johannes, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2022. Errors of multiple exponence in child language. *WCCFL 40*, Stanford University (virtual).<br>[[slides](https://osf.io/xkrbq/)]
+- Hein, Johannes, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2022. Errors of multiple exponence in child language.<br>*WCCFL 40*, Stanford University (virtual). [[slides](https://osf.io/xkrbq/)]
 
-Martin, Fabienne, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2021. Wearing causation on its sleeve: Overt <i>cause</i> in child French causatives. *BUCLD 46*, Boston University.<br>[[slides](/files/Martin-Nie-Alexiadou-Guasti-BU-2021.pdf)]
+- Martin, Fabienne, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2021. Wearing causation on its sleeve: Overt <i>cause</i> in child French causatives.<br>*BUCLD 46*, Boston University. [[slides](/files/Martin-Nie-Alexiadou-Guasti-BU-2021.pdf)]
 
-Nie, Yining. 2020. Double causatives are real. *NELS 51*, Université du Québec à Montréal (virtual).<br>[[slides](/files/Nie-2020-NELS.pdf)]
+- Nie, Yining. 2020. Double causatives are real.<br>*NELS 51*, Université du Québec à Montréal (virtual). [[slides](/files/Nie-2020-NELS.pdf)]
 
-Hsieh, Henrison and Yining Nie. 2020. Tagalog gerunds are antipassive. "Remarks: the Legacy" Workshop, *GLOW 43*, Humboldt-Universität zu Berlin (virtual).<br>[[slides](https://osf.io/ztnek/)]
+- Hsieh, Henrison and Yining Nie. 2020. Tagalog gerunds are antipassive.<br>"Remarks: the Legacy" Workshop, *GLOW 43*, Humboldt-Universität zu Berlin (virtual). [[slides](https://osf.io/ztnek/)]
