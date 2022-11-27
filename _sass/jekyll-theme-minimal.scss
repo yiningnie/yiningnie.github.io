@@ -18,11 +18,11 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
-h1 {
+h1, h2 {
   line-height:1.1;
 }
 
-h2, h3, h4, h5, h6 {
+h3, h4, h5, h6 {
   line-height:1;
 }
 
@@ -33,7 +33,7 @@ h1 {
 h2 {
   font-size:20px;
   color:#393939;
-  border-bottom: 1px solid #CCC;
+  border-bottom:1px solid #CCC;
 }
 
 h3 {
