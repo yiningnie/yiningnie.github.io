@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About
+## About
 
 I am a linguist specializing in comparative syntax and morphology, especially in the domain of argument structure. My research incorporates syntactic theory and insights from typology and language acquisition. I have a particular interest in causative constructions and Austronesian languages.
 
@@ -10,7 +10,7 @@ In addition to teaching syntax and semantics at San José State, I am also affil
 
 How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
-## Recent
+### Recent
 
 - Korean case stacking and the nominal template.<br>*Proceedings of PLC 45* (with Soo-Hwan Lee). [[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
 
@@ -23,13 +23,13 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 <p><a name="publications"> </a></p>
 
-# Publications
+## Publications
 
-## Dissertation
+### Dissertation
 
 - Nie, Yining. 2020. <i>Licensing arguments</i>. New York University: PhD dissertation.<br>[[lingbuzz](https://ling.auf.net/lingbuzz/005283)]
 
-## Papers
+### Papers
 
 - Nie, Yining. To appear. Turkish causatives are recursive: A response to Key 2013.<br><i>Linguistic Inquiry</i>. DOI: [10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472) [[paper](https://lingbuzz.net/lingbuzz/006636)]
 
@@ -65,7 +65,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 <p><a name="talks"> </a></p>
 
-# Recent Talks
+## Recent Talks
 
 - Silleresi, Silvia, Chiara Dal Farra, Yining Nie, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti. 2022. The agent bias holds in production too: Event descriptions in child Italian.<br>*BUCLD 47*, Boston University. [[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
 
