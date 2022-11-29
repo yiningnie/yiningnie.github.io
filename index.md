@@ -1,5 +1,12 @@
 ---
 layout: default
+redirect_from:
+- /about/
+- /about.html
+- /cv/
+- /publications/
+- /index/
+- /index.html
 ---
 
 ## About
