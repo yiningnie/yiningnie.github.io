@@ -5,8 +5,7 @@ redirect_from:
 - /about.html
 - /cv/
 - /publications/
-- /index/
-- /index.html
+
 ---
 
 ## About
