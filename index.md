@@ -61,7 +61,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 - Nie, Yining. 2017. Phonetic enhancement and three patterns of English <i>a</i>-tensing.<br><i>Proceedings of PLC 40</i>. [[paper](https://repository.upenn.edu/pwpl/vol23/iss1/21/)]
 
-- Nie, Yining. 2015. Tense and modality in French verbal morphology.<br><i>Proceedings of CLA 2015</i>. [[paper](http://cla-acl.ca/wp-content/uploads/Nie-2015.pdf)]
+- Nie, Yining. 2015. Tense and modality in French verbal morphology.<br><i>Proceedings of CLA 2015</i>. [[paper](https://cla-acl.artsci.utoronto.ca/wp-content/uploads/Nie-2015.pdf)]
 
 <p><a name="talks"> </a></p>
 
@@ -71,7 +71,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 - Nie, Yining. 2022. Recursion and thematic relations in causatives.<br>*BCGL 15*, CRISSP, KU Leuven. [[slides](/files/Nie-2022-BCGL.pdf)]
 
-- Hein, Johannes, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2022. Errors of multiple exponence in child language.<br>*WCCFL 40*, Stanford University (virtual). [[slides](https://osf.io/xkrbq/)]
+- Hein, Johannes, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2022. Errors of multiple exponence in child language.<br>*WCCFL 40*, Stanford University (virtual). [[slides](https://osf.io/wznhj/)]
 
 - Martin, Fabienne, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2021. Wearing causation on its sleeve: Overt <i>cause</i> in child French causatives.<br>*BUCLD 46*, Boston University. [[slides](/files/Martin-Nie-Alexiadou-Guasti-BU-2021.pdf)]
 
