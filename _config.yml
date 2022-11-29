@@ -9,3 +9,6 @@ description: Assistant Professor, SJSU Linguistics
 theme: jekyll-theme-minimal
 
 github: [metadata]
+
+plugins:
+- jekyll-redirect-from

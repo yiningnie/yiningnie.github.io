@@ -258,6 +258,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-redirect-from
   jekyll-theme-minimal
 
 BUNDLED WITH
