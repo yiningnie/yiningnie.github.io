@@ -13,12 +13,11 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ### Recent
 
-- Agent bias in child Italian event descriptions.<br>
-*LSA 2023* talk (with Fabienne Martin, Silvia Silleresi, Chiara Dal Farra, Artemis Alexiadou and Maria Teresa Guasti), Denver, CO. [[slides](/files/Martin-Nie-Silleresi-Dal Farra-LSA-2023.pdf)]
+- Agent bias in child Italian event descriptions.<br>*LSA 2023* talk (with Fabienne Martin, Silvia Silleresi, Chiara Dal Farra, Artemis Alexiadou and Maria Teresa Guasti), Denver, CO. [[slides](/files/Martin-Nie-Silleresi-Dal Farra-LSA-2023.pdf)]
 
 - Recursion and thematic relations in causatives.<br>*BCGL 15* talk, CRISSP, KU Leuven. [[slides](/files/Nie-2022-BCGL.pdf)]
 
-- Errors of multiple exponence in child language.<br><i>Proceedings of WCCFL 40</i> (to appear, with Johannes Hein, Imke Driemel, Fabienne Martin  and Artemis Alexiadou). [[paper](https://ling.auf.net/lingbuzz/006784)]
+- Errors of multiple exponence in child language.<br>*Proceedings of WCCFL 40* (to appear, with Johannes Hein, Imke Driemel, Fabienne Martin  and Artemis Alexiadou). [[paper](https://ling.auf.net/lingbuzz/006784)]
 
 - Korean case stacking and the nominal template.<br>*Proceedings of PLC 45* (with Soo-Hwan Lee). [[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
 
@@ -70,8 +69,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ## Recent Talks
 
-- Martin, Fabienne, Yining Nie, Silvia Silleresi, Chiara Dal Farra, Artemis Alexiadou and Maria Teresa Guasti. 2023. Agent bias in child Italian event descriptions.<br>
-*LSA 2023*, Denver, CO. [[slides](/files/Martin-Nie-Silleresi-Dal Farra-LSA-2023.pdf)]
+- Martin, Fabienne, Yining Nie, Silvia Silleresi, Chiara Dal Farra, Artemis Alexiadou and Maria Teresa Guasti. 2023. Agent bias in child Italian event descriptions.<br>*LSA 2023*, Denver, CO. [[slides](/files/Martin-Nie-Silleresi-Dal Farra-LSA-2023.pdf)]
 
 - Silleresi, Silvia, Chiara Dal Farra, Yining Nie, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti. 2022. The agent bias holds in production too: Event descriptions in child Italian.<br>*BUCLD 47*, Boston University. [[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
 
