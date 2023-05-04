@@ -33,6 +33,8 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ### Papers
 
+- Nie, Yining. Accepted with revisions. Applicative recursion and nominal licensing.<br><i>Linguistic Inquiry</i> (email me for a copy).
+
 - Nie, Yining. To appear. Turkish causatives are recursive: A response to Key 2013.<br><i>Linguistic Inquiry</i>. DOI: [10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472) [[paper](https://lingbuzz.net/lingbuzz/006636)]
 
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Minimizing and maximizing exponence in child language.<br><i>Proceedings of WCCFL 40</i>. [[paper](https://ling.auf.net/lingbuzz/006784)]
@@ -67,7 +69,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 <p><a name="talks"> </a></p>
 
-## Recent Talks
+## Recent/Selected Talks
 
 - Martin, Fabienne, Yining Nie, Silvia Silleresi, Chiara Dal Farra, Artemis Alexiadou and Maria Teresa Guasti. 2023. Agent bias in child Italian event descriptions.<br>*LSA 2023*, Denver, CO. [[slides](/files/Martin-Nie-Silleresi-Dal Farra-LSA-2023.pdf)]
 
@@ -78,7 +80,5 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 - Hein, Johannes, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2022. Errors of multiple exponence in child language.<br>*WCCFL 40*, Stanford University (virtual). [[slides](https://osf.io/wznhj/)]
 
 - Martin, Fabienne, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2021. Wearing causation on its sleeve: Overt <i>cause</i> in child French causatives.<br>*BUCLD 46*, Boston University. [[slides](/files/Martin-Nie-Alexiadou-Guasti-BU-2021.pdf)]
-
-- Nie, Yining. 2020. Double causatives are real.<br>*NELS 51*, Université du Québec à Montréal (virtual). [[slides](/files/Nie-2020-NELS.pdf)]
 
 - Hsieh, Henrison and Yining Nie. 2020. Tagalog gerunds are antipassive.<br>"Remarks: the Legacy" Workshop, *GLOW 43*, Humboldt-Universität zu Berlin (virtual). [[handout](https://osf.io/ztnek/)]
