@@ -13,7 +13,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ### Recent
 
-- Applicative recursion and nominal licensing.<br>Accepted to <i>Linguistic Inquiry</i>. [[paper](https://lingbuzz.net/lingbuzz/007355)]
+- Applicative recursion and nominal licensing.<br>*Linguistic Inquiry* (online early). DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513) [[paper](https://lingbuzz.net/lingbuzz/007355)]
 
 - Agent bias in child Italian event descriptions.<br>*LSA 2023* talk (with Fabienne Martin, Silvia Silleresi, Chiara Dal Farra, Artemis Alexiadou and Maria Teresa Guasti), Denver, CO. [[slides](/files/Martin-Nie-Silleresi-Dal Farra-LSA-2023.pdf)]
 
@@ -33,7 +33,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ### Papers
 
-- Nie, Yining. To appear. Applicative recursion and nominal licensing.<br><i>Linguistic Inquiry</i>. [[paper](https://lingbuzz.net/lingbuzz/007355)]
+- Nie, Yining. To appear. Applicative recursion and nominal licensing.<br><i>Linguistic Inquiry</i>. DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513) [[paper](https://lingbuzz.net/lingbuzz/007355)]
 
 - Nie, Yining. To appear. Turkish causatives are recursive: A response to Key 2013.<br><i>Linguistic Inquiry</i>. DOI: [10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472) [[paper](https://lingbuzz.net/lingbuzz/006636)]
 
