@@ -11,8 +11,13 @@ In addition to teaching syntax and semantics at San José State, I am also affil
 
 How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
-### Recent
+### Recent and upcoming
 
+<<<<<<< Updated upstream
+=======
+- Tagalog valency morphology and its neutralization.<br>*AFLA 30* talk (with Henrison Hsieh), Lund University.
+
+>>>>>>> Stashed changes
 - Applicative recursion and nominal licensing.<br>*Linguistic Inquiry* (early access). DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513) [[paper](https://lingbuzz.net/lingbuzz/007355)]
 
 - Agent bias in child Italian event descriptions.<br>*LSA 2023* talk (with Fabienne Martin, Silvia Silleresi, Chiara Dal Farra, Artemis Alexiadou and Maria Teresa Guasti), Denver, CO. [[slides](/files/Martin-Nie-Silleresi-Dal Farra-LSA-2023.pdf)]
@@ -34,6 +39,11 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 ### Papers
 
 - Nie, Yining. 2023. Applicative recursion and nominal licensing.<br><i>Linguistic Inquiry</i> (early access). DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513) [[paper](https://lingbuzz.net/lingbuzz/007355)]
+<<<<<<< Updated upstream
+=======
+
+- Nie, Yining. 2022. Turkish causatives are recursive: A response to Key 2013.<br><i>Linguistic Inquiry</i> (early access). DOI: [10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472) [[paper](https://lingbuzz.net/lingbuzz/006636)]
+>>>>>>> Stashed changes
 
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Errors of multiple exponence in child language.<br><i>Proceedings of WCCFL 40</i>. [[paper](https://ling.auf.net/lingbuzz/006784)]
 
