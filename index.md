@@ -13,25 +13,27 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ### Recent and upcoming
 
+- Ordering preferences in Ukrainian multiple wh-fronting.<br>*LSA 2024* talk (with Ruby Buenrostro), New York City, NY.
+
+- Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024* poster (with Fabienne Martin, Chiara Dal Farra and Silvia Silleresi), New York City, NY.
+
 - Tagalog valency morphology and its neutralization.<br>*AFLA 30* talk (with Henrison Hsieh), Lund University.
 
 - Applicative recursion and nominal licensing.<br>*Linguistic Inquiry* (early access). DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513) [[paper](https://lingbuzz.net/lingbuzz/007355)]
-
-- Agent bias in child Italian event descriptions.<br>*LSA 2023* talk (with Fabienne Martin, Silvia Silleresi, Chiara Dal Farra, Artemis Alexiadou and Maria Teresa Guasti), Denver, CO. [[slides](/files/Martin-Nie-Silleresi-Dal Farra-LSA-2023.pdf)]
 
 - Errors of multiple exponence in child language.<br>*Proceedings of WCCFL 40* (to appear, with Johannes Hein, Imke Driemel, Fabienne Martin  and Artemis Alexiadou). [[paper](https://ling.auf.net/lingbuzz/006784)]
 
 - Korean case stacking and the nominal template.<br>*Proceedings of PLC 45* (with Soo-Hwan Lee). [[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
 
-- Turkish causatives are recursive: A response to Key 2013.<br>*Linguistic Inquiry* squib (early access). DOI: [10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472) [[paper](https://lingbuzz.net/lingbuzz/006636)]
-
 <p><a name="publications"> </a></p>
 
 ## Publications
 
-### Dissertation
+### Dissertation and edited volume
 
 - Nie, Yining. 2020. <i>Licensing arguments</i>. New York University: PhD dissertation.<br>[[lingbuzz](https://ling.auf.net/lingbuzz/005283)]
+
+- Manova, Stela, Harald Hammarström, Itamar Kastner and Yining Nie. <i>What is in a morpheme?</i>. <i>Word Structure</i> 13(1). Edinburgh University Press. ISSN: [1750-1245]{https://www.euppublishing.com/toc/word/13/1}.
 
 ### Papers
 
@@ -73,7 +75,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 <p><a name="talks"> </a></p>
 
-## Recent/Selected Talks
+## Recent and selected presentations
 
 - Martin, Fabienne, Yining Nie, Silvia Silleresi, Chiara Dal Farra, Artemis Alexiadou and Maria Teresa Guasti. 2023. Agent bias in child Italian event descriptions.<br>*LSA 2023*, Denver, CO. [[slides](/files/Martin-Nie-Silleresi-Dal Farra-LSA-2023.pdf)]
 
