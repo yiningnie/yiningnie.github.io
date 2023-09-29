@@ -33,7 +33,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 - Nie, Yining. 2020. <i>Licensing arguments</i>. New York University: PhD dissertation.<br>[[lingbuzz](https://ling.auf.net/lingbuzz/005283)]
 
-- Manova, Stela, Harald Hammarström, Itamar Kastner and Yining Nie. <i>What is in a morpheme?</i>. <i>Word Structure</i> 13(1). Edinburgh University Press. ISSN: [1750-1245](https://www.euppublishing.com/toc/word/13/1).
+- Manova, Stela, Harald Hammarström, Itamar Kastner and Yining Nie. 2020. <i>What is in a morpheme?</i> Special issue of <i>Word Structure</i> 13(1). Edinburgh University Press. ISSN: [1750-1245](https://www.euppublishing.com/toc/word/13/1).
 
 ### Papers
 
