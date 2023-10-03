@@ -13,11 +13,11 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ### Recent and upcoming
 
-- Ordering preferences in Ukrainian multiple wh-fronting.<br>*LSA 2024* talk (with Ruby Buenrostro), New York City, NY.
+- Ordering preferences in Ukrainian multiple wh-fronting.<br>*LSA 2024* talk (with Ruby Buenrostro), New York City.
 
-- Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024* poster (with Fabienne Martin, Chiara Dal Farra and Silvia Silleresi), New York City, NY.
+- Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024* poster (with Fabienne Martin, Chiara Dal Farra and Silvia Silleresi), New York City.
 
-- Tagalog valency morphology and its neutralization.<br>*AFLA 30* talk (with Henrison Hsieh), Lund University.
+- Tagalog valency morphology and its neutralization.<br>*AFLA 30* talk (with Henrison Hsieh), Lund University, Sweden.
 
 - Applicative recursion and nominal licensing.<br>*Linguistic Inquiry* (early access). DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513) [[paper](https://lingbuzz.net/lingbuzz/007355)]
 
@@ -81,7 +81,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 - Silleresi, Silvia, Chiara Dal Farra, Yining Nie, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti. 2022. The agent bias holds in production too: Event descriptions in child Italian.<br>*BUCLD 47*, Boston University. [[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
 
-- Nie, Yining. 2022. Recursion and thematic relations in causatives.<br>*BCGL 15*, CRISSP, KU Leuven. [[slides](/files/Nie-2022-BCGL.pdf)]
+- Nie, Yining. 2022. Recursion and thematic relations in causatives.<br>*BCGL 15*, CRISSP, KU Leuven, Belgium. [[slides](/files/Nie-2022-BCGL.pdf)]
 
 - Hein, Johannes, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2022. Errors of multiple exponence in child language.<br>*WCCFL 40*, Stanford University (virtual). [[slides](https://osf.io/wznhj/)]
 
