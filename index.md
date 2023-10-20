@@ -17,7 +17,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 - Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024* poster (with Fabienne Martin, Chiara Dal Farra and Silvia Silleresi), New York City.
 
-- Tagalog valency morphology and its neutralization.<br>*AFLA 30* talk (with Henrison Hsieh), Lund University, Sweden.
+- Tagalog valency morphology and its neutralization.<br>*AFLA 30* talk (with Henrison Hsieh), Lund University, Sweden. [[slides](/files/Nie-Hsieh-2023-AFLA.pdf)]
 
 - Applicative recursion and nominal licensing.<br>*Linguistic Inquiry* (early access). DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513) [[paper](https://lingbuzz.net/lingbuzz/007355)]
 
@@ -76,6 +76,8 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 <p><a name="talks"> </a></p>
 
 ## Recent and selected presentations
+
+- Nie, Yining and Henrison Hsieh. 2023. Tagalog valency morphology and its neutralization.<br>*AFLA 30*, Lund University, Sweden. [[slides](/files/Nie-Hsieh-2023-AFLA.pdf)]
 
 - Martin, Fabienne, Yining Nie, Silvia Silleresi, Chiara Dal Farra, Artemis Alexiadou and Maria Teresa Guasti. 2023. Agent bias in child Italian event descriptions.<br>*LSA 2023*, Denver, CO. [[slides](/files/Martin-Nie-Silleresi-Dal Farra-LSA-2023.pdf)]
 
