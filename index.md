@@ -5,7 +5,7 @@ layout: default
 
 ## About
 
-I am a linguist specializing in comparative syntax and morphology, especially in the domain of argument structure. My research incorporates syntactic theory and insights from typology and language acquisition. I have a particular interest in causative constructions and Austronesian languages.
+I am a linguist specializing in comparative syntax and morphology, especially in the domain of argument structure. My research incorporates syntactic theory and insights from typology and experimental methods. I have a particular interest in causative constructions and Austronesian languages.
 
 In addition to teaching syntax and semantics at San José State, I am also affiliated with the ERC-funded [LeibnizDream](https://leibnizdream.eu) project. I received my PhD from [New York University](https://as.nyu.edu/departments/linguistics/homepage.html). I'm from the southernmost city in Canada. 🇨🇦
 
@@ -13,7 +13,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ### Recent and upcoming
 
-- Ordering preferences in Ukrainian multiple wh-fronting.<br>*LSA 2024* talk (with Ruby Buenrostro), New York City.
+- Ordering preferences in Ukrainian multiple *wh*-fronting.<br>*LSA 2024* talk (with Ruby Buenrostro), New York City.
 
 - Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024* poster (with Fabienne Martin, Chiara Dal Farra and Silvia Silleresi), New York City.
 
