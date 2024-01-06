@@ -13,9 +13,9 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ### Recent and upcoming
 
-- Ordering preferences in Ukrainian multiple *wh*-fronting.<br>*LSA 2024* talk (with Ruby Buenrostro), New York City.
+- Ordering preferences in Ukrainian multiple wh-fronting.<br>*LSA 2024* talk (with Ruby Buenrostro), New York City. [[slides](/files/Buenrostro-Nie-LSA-2024.pdf)]
 
-- Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024* poster (with Fabienne Martin, Chiara Dal Farra and Silvia Silleresi), New York City.
+- Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024* poster (with Fabienne Martin, Chiara Dal Farra and Silvia Silleresi), New York City. [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
 
 - Tagalog valency morphology and its neutralization.<br>*AFLA 30* talk (with Henrison Hsieh), Lund University, Sweden. [[slides](/files/Nie-Hsieh-2023-AFLA.pdf)]
 
@@ -74,6 +74,10 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 <p><a name="talks"> </a></p>
 
 ## Recent and selected presentations
+
+- Buenrostro, Ruby and Yining Nie. 2024. Ordering preferences in Ukrainian multiple wh-fronting.<br>*LSA 2024*, New York City. [[slides](/files/Buenrostro-Nie-LSA-2024.pdf)]
+
+- Nie, Yining, Fabienne Martin, Chiara Dal Farra and Silvia Silleresi. 2024. Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024*, New York City. [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
 
 - Nie, Yining and Henrison Hsieh. 2023. Tagalog valency morphology and its neutralization.<br>*AFLA 30*, Lund University, Sweden. [[slides](/files/Nie-Hsieh-2023-AFLA.pdf)]
 
