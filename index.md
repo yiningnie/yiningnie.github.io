@@ -13,7 +13,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ### Recent and upcoming
 
-- Ordering preferences in Ukrainian multiple wh-fronting.<br>*LSA 2024* talk (with Ruby Buenrostro), New York City. [[slides](/files/Buenrostro-Nie-LSA-2024.pdf)]
+- Ordering preferences in Ukrainian multiple *wh*-fronting.<br>*LSA 2024* talk (with Ruby Buenrostro), New York City. [[slides](/files/Buenrostro-Nie-LSA-2024.pdf)]
 
 - Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024* poster (with Fabienne Martin, Chiara Dal Farra and Silvia Silleresi), New York City. [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
 
@@ -75,7 +75,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ## Recent and selected presentations
 
-- Buenrostro, Ruby and Yining Nie. 2024. Ordering preferences in Ukrainian multiple wh-fronting.<br>*LSA 2024*, New York City. [[slides](/files/Buenrostro-Nie-LSA-2024.pdf)]
+- Buenrostro, Ruby and Yining Nie. 2024. Ordering preferences in Ukrainian multiple *wh*-fronting.<br>*LSA 2024*, New York City. [[slides](/files/Buenrostro-Nie-LSA-2024.pdf)]
 
 - Nie, Yining, Fabienne Martin, Chiara Dal Farra and Silvia Silleresi. 2024. Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024*, New York City. [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
 
