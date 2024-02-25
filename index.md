@@ -11,7 +11,7 @@ In addition to teaching syntax and semantics at San José State, I am also affil
 
 How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
-### Recent and upcoming
+### Recent
 
 - Ordering preferences in Ukrainian multiple *wh*-fronting.<br>*LSA 2024* talk (with Ruby Buenrostro), New York City. [[slides](/files/Buenrostro-Nie-LSA-2024.pdf)]
 
