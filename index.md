@@ -13,7 +13,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ### Recent and upcoming
 
-- Invited *AFLA 31* talk, University of Massachusetts Amherst. [[conference website]](https://websites.umass.edu/afla31/)
+- Invited *AFLA 31* talk, University of Massachusetts Amherst. [[conference website](https://websites.umass.edu/afla31/)]
 
 - Ordering preferences in Ukrainian multiple *wh*-fronting.<br>*LSA 2024* talk (with Ruby Buenrostro), New York City. [[slides](/files/Buenrostro-Nie-LSA-2024.pdf)]
 
