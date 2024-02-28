@@ -11,7 +11,9 @@ In addition to teaching syntax and semantics at San José State, I am also affil
 
 How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
-### Recent
+### Recent and upcoming
+
+- Invited *AFLA 31* talk, University of Massachusetts Amherst. [[conference website]](https://websites.umass.edu/afla31/)
 
 - Ordering preferences in Ukrainian multiple *wh*-fronting.<br>*LSA 2024* talk (with Ruby Buenrostro), New York City. [[slides](/files/Buenrostro-Nie-LSA-2024.pdf)]
 
@@ -20,8 +22,6 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 - Tagalog valency morphology and its neutralization.<br>*AFLA 30* talk (with Henrison Hsieh), Lund University, Sweden. [[slides](/files/Nie-Hsieh-2023-AFLA.pdf)]
 
 - Applicative recursion and nominal licensing.<br>*Linguistic Inquiry* (early access). DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513) [[paper](https://lingbuzz.net/lingbuzz/007355)]
-
-- Errors of multiple exponence in child language.<br>*Proceedings of WCCFL 40* (to appear, with Johannes Hein, Imke Driemel, Fabienne Martin  and Artemis Alexiadou). [[paper](https://ling.auf.net/lingbuzz/006784)]
 
 - Korean case stacking and the nominal template.<br>*Proceedings of PLC 45* (with Soo-Hwan Lee). [[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
 
