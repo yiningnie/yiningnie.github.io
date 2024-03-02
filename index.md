@@ -16,7 +16,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 - Invited *AFLA 31* talk, University of Massachusetts Amherst. [[conference website](https://websites.umass.edu/afla31/)]
 
 - What Tagalog teaches us about causation.<br>
-Invited talk,*The impact of Tagalog on Psycholinguistics and Formal Linguistics*, Queen Mary University of London.
+Invited talk, *The impact of Tagalog on Psycholinguistics and Formal Linguistics*, Queen Mary University of London.
 
 - Ordering preferences in Ukrainian multiple *wh*-fronting.<br>*LSA 2024* talk (with Ruby Buenrostro), New York City. [[slides](/files/Buenrostro-Nie-LSA-2024.pdf)]
 
