@@ -13,7 +13,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ### Recent and upcoming
 
-- Invited *AFLA 31* talk, University of Massachusetts Amherst. [[conference website](https://websites.umass.edu/afla31/)]
+- Invited talk, *AFLA 31*, University of Massachusetts Amherst. [[conference website](https://websites.umass.edu/afla31/)]
 
 - What Tagalog teaches us about causation.<br>
 Invited talk, *The impact of Tagalog on Psycholinguistics and Formal Linguistics*, Queen Mary University of London.
