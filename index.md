@@ -15,6 +15,9 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 - Invited *AFLA 31* talk, University of Massachusetts Amherst. [[conference website](https://websites.umass.edu/afla31/)]
 
+- What Tagalog teaches us about causation. 
+Invited talk, \textit{The impact of Tagalog on Psycholinguistics and Formal Linguistics}, Queen Mary University of London.
+
 - Ordering preferences in Ukrainian multiple *wh*-fronting.<br>*LSA 2024* talk (with Ruby Buenrostro), New York City. [[slides](/files/Buenrostro-Nie-LSA-2024.pdf)]
 
 - Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024* poster (with Fabienne Martin, Chiara Dal Farra and Silvia Silleresi), New York City. [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
