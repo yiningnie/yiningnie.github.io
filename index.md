@@ -18,7 +18,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 - What can Tagalog teach us about causation?<br>
 Invited talk, *The impact of Tagalog in Psycholinguistics and Formal Linguistics*, Queen Mary University of London. [[website](https://www.qmul.ac.uk/sllf/linguistics/events/upcoming-events/items/symposium-the-impact-of-tagalog-in-psycholinguistics-and-formal-linguistics.html)]
 
-- Ordering preferences in Ukrainian multiple *wh*-fronting.<br>To appear, *Proceedings of the LSA 2024* (with Ruby Buenrostro). [[paper](/files/Buenrostro-Nie-LSA-2024-paper.pdf)]
+- Ordering preferences in Ukrainian multiple *wh*-fronting.<br>To appear, *Proceedings of LSA 2024* (with Ruby Buenrostro). [[paper](/files/Buenrostro-Nie-LSA-2024-paper.pdf)]
 
 - Errors of multiple exponence in Child English: A study of past tense formation.<br>
 Accepted, *Morphology* (pending revisions, with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
