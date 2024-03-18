@@ -18,15 +18,14 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 - What can Tagalog teach us about causation?<br>
 Invited talk, *The impact of Tagalog in Psycholinguistics and Formal Linguistics*, Queen Mary University of London. [[website](https://www.qmul.ac.uk/sllf/linguistics/events/upcoming-events/items/symposium-the-impact-of-tagalog-in-psycholinguistics-and-formal-linguistics.html)]
 
-- Ordering preferences in Ukrainian multiple *wh*-fronting.<br>*LSA 2024* talk (with Ruby Buenrostro), New York City. [[slides](/files/Buenrostro-Nie-LSA-2024.pdf)]
+- Ordering preferences in Ukrainian multiple *wh*-fronting.<br>To appear, *Proceedings of the LSA 2024* (with Ruby Buenrostro). [[paper](/files/Buenrostro-Nie-LSA-2024-paper.pdf)]
+
+- Errors of multiple exponence in Child English: A study of past tense formation.<br>
+Accepted, *Morphology* (pending revisions, with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
 
 - Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024* poster (with Fabienne Martin, Chiara Dal Farra and Silvia Silleresi), New York City. [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
 
-- Tagalog valency morphology and its neutralization.<br>*AFLA 30* talk (with Henrison Hsieh), Lund University, Sweden. [[slides](/files/Nie-Hsieh-2023-AFLA.pdf)]
-
 - Applicative recursion and nominal licensing.<br>*Linguistic Inquiry* (early access). DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513) [[paper](https://lingbuzz.net/lingbuzz/007355)]
-
-- Korean case stacking and the nominal template.<br>*Proceedings of PLC 45* (with Soo-Hwan Lee). [[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
 
 <p><a name="publications"> </a></p>
 
