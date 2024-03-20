@@ -74,7 +74,7 @@ Accepted, *Morphology* (pending revisions, with Johannes Hein, Imke Driemel, Fab
 
 - Nie, Yining. 2017. Phonetic enhancement and three patterns of English <i>a</i>-tensing.<br><i>Proceedings of PLC 40</i>. [[paper](https://repository.upenn.edu/pwpl/vol23/iss1/21/)]
 
-- Nie, Yining. 2015. Tense and modality in French verbal morphology.<br><i>Proceedings of CLA 2015</i>. [[paper](https://cla-acl.artsci.utoronto.ca/wp-content/uploads/Nie-2015.pdf)]
+- Nie, Yining. 2015. Tense and modality in French verbal morphology.<br><i>Proceedings of CLA 2015</i>. [[paper](https://cla-acl.ca/pdfs/actes-2015/Nie-2015.pdf)]
 
 <p><a name="talks"> </a></p>
 
