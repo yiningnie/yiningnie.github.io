@@ -28,7 +28,7 @@ Accepted, *Morphology* (pending revisions, with Johannes Hein, Imke Driemel, Fab
 
 - Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024* poster (with Fabienne Martin, Chiara Dal Farra and Silvia Silleresi), New York City. [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
 
-- Applicative recursion and nominal licensing.<br>*Linguistic Inquiry* (early access). DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513) [[paper](https://lingbuzz.net/lingbuzz/007355)]
+- Applicative recursion and nominal licensing.<br>*Linguistic Inquiry* (early access). DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513)
 
 <p><a name="publications"> </a></p>
 
@@ -42,13 +42,13 @@ Accepted, *Morphology* (pending revisions, with Johannes Hein, Imke Driemel, Fab
 
 ### Papers
 
-- Nie, Yining. 2023. Applicative recursion and nominal licensing.<br><i>Linguistic Inquiry</i> (early access). DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513) [[paper](https://lingbuzz.net/lingbuzz/007355)]
+- Nie, Yining. 2023. Applicative recursion and nominal licensing.<br><i>Linguistic Inquiry</i> (early access). DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513)
 
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Errors of multiple exponence in child language.<br><i>Proceedings of WCCFL 40</i>. [[paper](https://ling.auf.net/lingbuzz/006784)]
 
 - Lee, Soo-Hwan and Yining Nie. 2022. Korean case stacking and the nominal template.<br><i>Proceedings of PLC 45</i>. [[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
 
-- Nie, Yining. 2022. Turkish causatives are recursive: A response to Key 2013.<br><i>Linguistic Inquiry</i> (early access). DOI: [10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472) [[paper](https://lingbuzz.net/lingbuzz/006636)]
+- Nie, Yining. 2022. Turkish causatives are recursive: A response to Key 2013.<br><i>Linguistic Inquiry</i> (early access). DOI: [10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472)
 
 - Martin, Fabienne, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2022. Wearing causation on its sleeve: Overt <i>cause</i> in child French causatives.<br><i>Proceedings of BUCLD 46</i>. [[paper](http://www.lingref.com/bucld/46/BUCLD46-38.pdf)]
 
