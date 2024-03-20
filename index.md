@@ -14,7 +14,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 ### Recent and upcoming
 
 - Adjective ordering in Iu Mien.<br>
-*SEALS 33* (with Low Saelee), National Tsing Hua University, Taiwan. [[website](https://sites.google.com/view/seals33/home)]
+*SEALS 33* talk (with Low Saelee), National Tsing Hua University, Taiwan. [[website](https://sites.google.com/view/seals33/home)]
 
 - Invited talk, *AFLA 31*, University of Massachusetts Amherst. [[website](https://websites.umass.edu/afla31/)]
 
