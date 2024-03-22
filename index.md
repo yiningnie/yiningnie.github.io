@@ -42,6 +42,11 @@ Accepted, *Morphology* (pending revisions, with Johannes Hein, Imke Driemel, Fab
 
 ### Papers
 
+- Buenrostro, Ruby and Yining Nie. To appear. Ordering preferences in Ukrainian multiple <i>wh</i>-fronting.<br> <i>Proceedings of LSA 2024</i>. [[paper](/files/Buenrostro-Nie-LSA-2024-paper.pdf)]
+
+- Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. Accepted. Errors of multiple exponence in Child English: A study of past tense formation.<br>
+<i>Morphology</i> (pending revisions).
+
 - Nie, Yining. 2023. Applicative recursion and nominal licensing.<br><i>Linguistic Inquiry</i> (early access). DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513)
 
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Errors of multiple exponence in child language.<br><i>Proceedings of WCCFL 40</i>. [[paper](https://ling.auf.net/lingbuzz/006784)]
