@@ -57,9 +57,9 @@ Accepted, *Morphology* (pending revisions, with Johannes Hein, Imke Driemel, Fab
 
 - Martin, Fabienne, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2022. Wearing causation on its sleeve: Overt <i>cause</i> in child French causatives.<br><i>Proceedings of BUCLD 46</i>. [[paper](http://www.lingref.com/bucld/46/BUCLD46-38.pdf)]
 
-- Kouneli, Maria and Yining Nie. 2021. Across-the-board tonal polarity in Kipsigis: Implications for the morphology-phonology interface.<br><i>Language</i> 97(2). e111-e138. DOI: [10.1353/lan.2021.0030](https://doi.org/10.1353/lan.2021.0030) [[paper](https://ling.auf.net/lingbuzz/005520)]
+- Kouneli, Maria and Yining Nie. 2021. Across-the-board tonal polarity in Kipsigis: Implications for the morphology-phonology interface.<br><i>Language</i> 97(2). e111-e138. DOI: [10.1353/lan.2021.0030](https://doi.org/10.1353/lan.2021.0030) [[paper](/files/Kouneli-Nie-2024-Language.pdf)]
 
-- Nie, Yining. 2020. Morphological causatives are Voice over Voice.<br> <i>Word Structure</i> 13(1). 102-126. DOI: [10.3366/word.2020.0161](https://doi.org/10.3366/word.2020.0161) [[paper](http://yiningnie.github.io/files/Nie-2020-Morphological-causatives.pdf)]
+- Nie, Yining. 2020. Morphological causatives are Voice over Voice.<br> <i>Word Structure</i> 13(1). 102-126. DOI: [10.3366/word.2020.0161](https://doi.org/10.3366/word.2020.0161) [[paper](/files/Nie-2020-Morphological-causatives.pdf)]
 
 - Manova, Stela, Harald Hammarström, Itamar Kastner and Yining Nie. 2020. What is in a morpheme? Theoretical, experimental and computational approaches to the relation of meaning and form in morphology.<br><i>Word Structure</i> 13(1). 1-21. DOI: [10.3366/word.2020.0157](https://doi.org/10.3366/word.2020.0157) [[paper](/files/Manova-2020-Morpheme.pdf)]
 
@@ -89,7 +89,7 @@ Accepted, *Morphology* (pending revisions, with Johannes Hein, Imke Driemel, Fab
 
 - Nie, Yining, Fabienne Martin, Chiara Dal Farra and Silvia Silleresi. 2024. Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024*, New York City. [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
 
-- Nie, Yining and Henrison Hsieh. 2023. Tagalog valency morphology and its neutralization.<br>*AFLA 30*, Lund University, Sweden. [[slides](/files/Nie-Hsieh-2023-AFLA.pdf)]
+- Nie, Yining and Henrison Hsieh. 2023. Tagalog valency morphology and its neutralization.<br>*AFLA 30*, Lund University, Sweden. [[slides](/files/Nie-Hsieh-AFLA-2023.pdf)]
 
 - Martin, Fabienne, Yining Nie, Silvia Silleresi, Chiara Dal Farra, Artemis Alexiadou and Maria Teresa Guasti. 2023. Agent bias in child Italian event descriptions.<br>*LSA 2023*, Denver, CO. [[slides](/files/Martin-Nie-Silleresi-Dal Farra-LSA-2023.pdf)]
 
