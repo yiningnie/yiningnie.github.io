@@ -13,7 +13,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ### Recent and upcoming
 
-- June 2024: Adjective ordering in Iu Mien. *SEALS 33* talk (with Low Saelee), National Tsing Hua University, Taiwan. [[website](https://sites.google.com/view/seals33/home)]
+- June 2024: Adjective ordering in Iu Mien. *SEALS 33* talk (with Low Saelee), National Tsing Hua University, Taiwan (hybrid). [[website](https://sites.google.com/view/seals33/home)]
 
 - June 2024: Invited talk, *AFLA 31*, University of Massachusetts Amherst. [[website](https://websites.umass.edu/afla31/)]
 
