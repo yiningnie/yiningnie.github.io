@@ -13,19 +13,19 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ### Recent and upcoming
 
-- June 2024: Adjective ordering in Iu Mien. *SEALS 33* talk (with Low Saelee), National Tsing Hua University, Taiwan (hybrid). [[website](https://sites.google.com/view/seals33/home)]
+- June 2024: Adjective ordering in Iu Mien. *SEALS 33* talk (with Low Saelee). [[website](https://sites.google.com/view/seals33/home)]
 
-- June 2024: Invited talk, *AFLA 31*, University of Massachusetts Amherst. [[website](https://websites.umass.edu/afla31/)]
+- June 2024: Invited talk, *AFLA 31*. [[website](https://websites.umass.edu/afla31/)]
 
 - March 2024: What can Tagalog teach us about causation? 
-Invited talk, *The impact of Tagalog in Psycholinguistics and Formal Linguistics*, Queen Mary University of London. [[website](https://www.qmul.ac.uk/sllf/linguistics/events/upcoming-events/items/symposium-the-impact-of-tagalog-in-psycholinguistics-and-formal-linguistics.html)]
+Invited talk, *The impact of Tagalog in Psycholinguistics and Formal Linguistics*. [[website](https://www.qmul.ac.uk/sllf/linguistics/events/upcoming-events/items/symposium-the-impact-of-tagalog-in-psycholinguistics-and-formal-linguistics.html)]
 
 - March 2024: Ordering preferences in Ukrainian multiple *wh*-fronting. To appear. *Proceedings of LSA 2024* (with Ruby Buenrostro). [[paper](/files/Buenrostro-Nie-LSA-2024-paper.pdf)]
 
 - February 2024: Errors of multiple exponence in Child English: A study of past tense formation. 
 Accepted with revisions. *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
 
-- January 2024: Interpreting causatives: The case of *faire se* in French and Italian. *LSA 2024* poster (with Fabienne Martin, Chiara Dal Farra and Silvia Silleresi), New York City. [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
+- January 2024: Interpreting causatives: The case of *faire se* in French and Italian. *LSA 2024* poster (with Fabienne Martin, Chiara Dal Farra and Silvia Silleresi). [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
 
 - November 2023: Applicative recursion and nominal licensing. *Linguistic Inquiry* (early access). DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513)
 
