@@ -18,7 +18,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 - June 2024: Invited talk, [*AFLA 31*](https://websites.umass.edu/afla31/). 
 
 - March 2024: What can Tagalog teach us about causation? 
-Invited talk, [*The impact of Tagalog in Psycholinguistics and Formal Linguistics*](https://www.qmul.ac.uk/sllf/linguistics/events/upcoming-events/items/symposium-the-impact-of-tagalog-in-psycholinguistics-and-formal-linguistics.html) Symposium.
+Invited talk, [*The impact of Tagalog in Psycholinguistics and Formal Linguistics*](https://www.qmul.ac.uk/sllf/linguistics/events/upcoming-events/items/symposium-the-impact-of-tagalog-in-psycholinguistics-and-formal-linguistics.html).
 
 - March 2024: [Ordering preferences in Ukrainian multiple *wh*-fronting](/files/Buenrostro-Nie-LSA-2024-paper.pdf). To appear. *Proceedings of LSA 2024* (with Ruby Buenrostro).
 
