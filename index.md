@@ -17,10 +17,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 - June 2024: Invited talk, [*AFLA 31*](https://websites.umass.edu/afla31/). 
 
-- March 2024: What can Tagalog teach us about causation? 
-Invited talk, [*The impact of Tagalog in Psycholinguistics and Formal Linguistics*](https://www.qmul.ac.uk/sllf/linguistics/events/upcoming-events/items/symposium-the-impact-of-tagalog-in-psycholinguistics-and-formal-linguistics.html).
-
-- March 2024: [Ordering preferences in Ukrainian multiple *wh*-fronting](/files/Buenrostro-Nie-LSA-2024-paper.pdf). To appear. *Proceedings of LSA 2024* (with Ruby Buenrostro).
+- March 2024: [Ordering preferences in Ukrainian multiple *wh*-fronting](/files/Buenrostro-Nie-2024-LSA.pdf). To appear. *Proceedings of LSA 2024* (with Ruby Buenrostro).
 
 - February 2024: Errors of multiple exponence in Child English: A study of past tense formation. 
 Accepted with revisions. *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
@@ -41,7 +38,7 @@ Accepted with revisions. *Morphology* (with Johannes Hein, Imke Driemel, Fabienn
 
 ### Papers
 
-- Buenrostro, Ruby and Yining Nie. To appear. Ordering preferences in Ukrainian multiple <i>wh</i>-fronting.<br> <i>Proceedings of LSA 2024</i>. [[paper](/files/Buenrostro-Nie-LSA-2024-paper.pdf)]
+- Buenrostro, Ruby and Yining Nie. To appear. Ordering preferences in Ukrainian multiple <i>wh</i>-fronting.<br><i>Proceedings of LSA 2024</i>. [[paper](/files/Buenrostro-Nie-2024-LSA.pdf)]
 
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. Accepted. Errors of multiple exponence in Child English: A study of past tense formation.<br>
 <i>Morphology</i> (pending revisions).
@@ -84,7 +81,7 @@ Accepted with revisions. *Morphology* (with Johannes Hein, Imke Driemel, Fabienn
 
 ## Recent and selected presentations
 
-- Buenrostro, Ruby and Yining Nie. 2024. Ordering preferences in Ukrainian multiple *wh*-fronting.<br>*LSA 2024*, New York City. [[slides](/files/Buenrostro-Nie-LSA-2024.pdf)]
+Presentations that have not (yet) appeared in a paper version. Email me for other materials not listed here.
 
 - Nie, Yining, Fabienne Martin, Chiara Dal Farra and Silvia Silleresi. 2024. Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024*, New York City. [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
 
@@ -95,9 +92,5 @@ Accepted with revisions. *Morphology* (with Johannes Hein, Imke Driemel, Fabienn
 - Silleresi, Silvia, Chiara Dal Farra, Yining Nie, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti. 2022. The agent bias holds in production too: Event descriptions in child Italian.<br>*BUCLD 47*, Boston University. [[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
 
 - Nie, Yining. 2022. Recursion and thematic relations in causatives.<br>*BCGL 15*, CRISSP, KU Leuven, Belgium. [[slides](/files/Nie-2022-BCGL.pdf)]
-
-- Hein, Johannes, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2022. Errors of multiple exponence in child language.<br>*WCCFL 40*, Stanford University (virtual). [[slides](https://osf.io/wznhj/)]
-
-- Martin, Fabienne, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2021. Wearing causation on its sleeve: Overt <i>cause</i> in child French causatives.<br>*BUCLD 46*, Boston University. [[slides](/files/Martin-Nie-Alexiadou-Guasti-BU-2021.pdf)]
 
 - Hsieh, Henrison and Yining Nie. 2020. Tagalog gerunds are antipassive.<br>"Remarks: the Legacy" Workshop, *GLOW 43*, Humboldt-Universität zu Berlin (virtual). [[handout](https://osf.io/ztnek/)]
