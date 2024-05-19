@@ -15,7 +15,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 - June 2024: Adjective ordering in Iu Mien. [*SEALS 33*](https://sites.google.com/view/seals33/home) talk (with Low Saelee).
 
-- June 2024: Distinguishing Tagalog valency and voice. Invited talk, [*AFLA 31*](https://websites.umass.edu/afla31/) invited talk. 
+- June 2024: Distinguishing Tagalog valency and voice. [*AFLA 31*](https://websites.umass.edu/afla31/) invited talk. 
 
 - May 2024: [Ordering preferences in Ukrainian multiple *wh*-fronting](https://doi.org/10.3765/plsa.v9i1.5661). *Proceedings of LSA 2024* (with Ruby Buenrostro).
 
