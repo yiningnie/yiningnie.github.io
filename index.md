@@ -15,9 +15,11 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 - June 2024: Adjective ordering in Iu Mien. [*SEALS 33*](https://sites.google.com/view/seals33/home) talk (with Low Saelee).
 
-- June 2024: Invited talk, [*AFLA 31*](https://websites.umass.edu/afla31/). 
+- June 2024: Distinguishing Tagalog valency and voice. Invited talk, [*AFLA 31*](https://websites.umass.edu/afla31/) invited talk. 
 
-- March 2024: [Ordering preferences in Ukrainian multiple *wh*-fronting](/files/Buenrostro-Nie-2024-LSA.pdf). To appear. *Proceedings of LSA 2024* (with Ruby Buenrostro).
+- May 2024: [Ordering preferences in Ukrainian multiple *wh*-fronting](https://doi.org/10.3765/plsa.v9i1.5661). *Proceedings of LSA 2024* (with Ruby Buenrostro).
+
+- April 2024: [Tagalog valency morphology and its neutralization](/files/Nie-Hsieh-2024-LSA.pdf). To appear. *Proceedings of AFLA 30* (with Henrison Hsieh).
 
 - February 2024: Errors of multiple exponence in Child English: A study of past tense formation. 
 Accepted with revisions. *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
@@ -38,7 +40,9 @@ Accepted with revisions. *Morphology* (with Johannes Hein, Imke Driemel, Fabienn
 
 ### Papers
 
-- Buenrostro, Ruby and Yining Nie. To appear. Ordering preferences in Ukrainian multiple <i>wh</i>-fronting.<br><i>Proceedings of LSA 2024</i>. [[paper](/files/Buenrostro-Nie-2024-LSA.pdf)]
+- Nie, Yining and Henrison Hsieh. To appear. Tagalog valency morphology and its neutralization.<br><i>Proceedings of AFLA 30</i>. [[paper] (/files/Nie-Hsieh-2024-LSA.pdf)]
+
+- Buenrostro, Ruby and Yining Nie. 2024. Ordering preferences in Ukrainian multiple <i>wh</i>-fronting.<br><i>Proceedings of LSA 2024</i>. DOI: [10.3765/plsa.v9i1.5661](https://doi.org/10.3765/plsa.v9i1.5661)
 
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. Accepted. Errors of multiple exponence in Child English: A study of past tense formation.<br>
 <i>Morphology</i> (pending revisions).
@@ -79,9 +83,9 @@ Accepted with revisions. *Morphology* (with Johannes Hein, Imke Driemel, Fabienn
 
 <p><a name="talks"> </a></p>
 
-## Recent and selected presentations
+## Presentations
 
-Presentations that have not (yet) appeared in a paper version. Email me for other materials not listed here.
+Recent and selected presentations that have not (yet) appeared in a paper version. Feel free to email me for other materials not listed here.
 
 - Nie, Yining, Fabienne Martin, Chiara Dal Farra and Silvia Silleresi. 2024. Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024*, New York City. [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
 
