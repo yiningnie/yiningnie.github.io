@@ -40,9 +40,9 @@ Accepted with revisions. *Morphology* (with Johannes Hein, Imke Driemel, Fabienn
 
 ### Papers
 
-- Nie, Yining and Henrison Hsieh. To appear.<br>Tagalog valency morphology and its neutralization.<br><i>Proceedings of AFLA 30</i>. [[paper](/files/Nie-Hsieh-2024-AFLA.pdf)]
+- Nie, Yining and Henrison Hsieh. To appear. Tagalog valency morphology and its neutralization.<br><i>Proceedings of AFLA 30</i>. [[paper](/files/Nie-Hsieh-2024-AFLA.pdf)]
 
-- Buenrostro, Ruby and Yining Nie. 2024.<br>Ordering preferences in Ukrainian multiple <i>wh</i>-fronting.<br><i>Proceedings of LSA 2024</i>. DOI: [10.3765/plsa.v9i1.5661](https://doi.org/10.3765/plsa.v9i1.5661)
+- Buenrostro, Ruby and Yining Nie. 2024. Ordering preferences in Ukrainian multiple <i>wh</i>-fronting.<br><i>Proceedings of LSA 2024</i>. DOI: [10.3765/plsa.v9i1.5661](https://doi.org/10.3765/plsa.v9i1.5661)
 
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. Accepted. Errors of multiple exponence in Child English: A study of past tense formation.<br>
 <i>Morphology</i> (pending revisions).
@@ -51,7 +51,7 @@ Accepted with revisions. *Morphology* (with Johannes Hein, Imke Driemel, Fabienn
 
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Errors of multiple exponence in child language.<br><i>Proceedings of WCCFL 40</i>. [[paper](https://ling.auf.net/lingbuzz/006784)]
 
-- Lee, Soo-Hwan and Yining Nie. 2022.<br>Korean case stacking and the nominal template.<br><i>Proceedings of PLC 45</i>. [[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
+- Lee, Soo-Hwan and Yining Nie. 2022. Korean case stacking and the nominal template.<br><i>Proceedings of PLC 45</i>. [[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
 
 - Nie, Yining. 2022. Turkish causatives are recursive: A response to Key 2013.<br><i>Linguistic Inquiry</i> (early access). DOI: [10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472)
 
@@ -61,7 +61,7 @@ Accepted with revisions. *Morphology* (with Johannes Hein, Imke Driemel, Fabienn
 
 - Nie, Yining. 2020. Morphological causatives are Voice over Voice.<br> <i>Word Structure</i> 13(1). 102-126. DOI: [10.3366/word.2020.0161](https://doi.org/10.3366/word.2020.0161) [[paper](/files/Nie-2020-Morphological-causatives.pdf)]
 
-- Manova, Stela, Harald Hammarström, Itamar Kastner and Yining Nie. 2020.<br>What is in a morpheme? Theoretical, experimental and computational approaches to the relation of meaning and form in morphology.<br><i>Word Structure</i> 13(1). 1-21. DOI: [10.3366/word.2020.0157](https://doi.org/10.3366/word.2020.0157) [[paper](/files/Manova-2020-Morpheme.pdf)]
+- Manova, Stela, Harald Hammarström, Itamar Kastner and Yining Nie. 2020. What is in a morpheme? Theoretical, experimental and computational approaches to the relation of meaning and form in morphology.<br><i>Word Structure</i> 13(1). 1-21. DOI: [10.3366/word.2020.0157](https://doi.org/10.3366/word.2020.0157) [[paper](/files/Manova-2020-Morpheme.pdf)]
 
 - Nie, Yining. 2019. Raising applicatives and possessors in Tagalog.<br><i>Glossa: a journal of general linguistics</i> 4(1), 139. 1-30. DOI: [10.5334/gjgl.941](http://doi.org/10.5334/gjgl.941)
 
@@ -89,11 +89,11 @@ Recent and selected presentations that have not (yet) appeared in a paper versio
 
 - Nie, Yining, Fabienne Martin, Chiara Dal Farra and Silvia Silleresi. 2024. Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024*, New York City. [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
 
-- Nie, Yining and Henrison Hsieh. 2023.<br>Tagalog valency morphology and its neutralization.<br>*AFLA 30*, Lund University, Sweden. [[slides](/files/Nie-Hsieh-AFLA-2023.pdf)]
+- Nie, Yining and Henrison Hsieh. 2023. Tagalog valency morphology and its neutralization.<br>*AFLA 30*, Lund University, Sweden. [[slides](/files/Nie-Hsieh-AFLA-2023.pdf)]
 
-- Martin, Fabienne, Yining Nie, Silvia Silleresi, Chiara Dal Farra, Artemis Alexiadou and Maria Teresa Guasti. 2023.<br>Agent bias in child Italian event descriptions.<br>*LSA 2023*, Denver, CO. [[slides](/files/Martin-Nie-Silleresi-Dal Farra-LSA-2023.pdf)]
+- Martin, Fabienne, Yining Nie, Silvia Silleresi, Chiara Dal Farra, Artemis Alexiadou and Maria Teresa Guasti. 2023. Agent bias in child Italian event descriptions.<br>*LSA 2023*, Denver, CO. [[slides](/files/Martin-Nie-Silleresi-Dal Farra-LSA-2023.pdf)]
 
-- Silleresi, Silvia, Chiara Dal Farra, Yining Nie, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti. 2022.<br>The agent bias holds in production too: Event descriptions in child Italian.<br>*BUCLD 47*, Boston University. [[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
+- Silleresi, Silvia, Chiara Dal Farra, Yining Nie, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti. 2022. The agent bias holds in production too: Event descriptions in child Italian.<br>*BUCLD 47*, Boston University. [[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
 
 - Nie, Yining. 2022. Recursion and thematic relations in causatives.<br>*BCGL 15*, CRISSP, KU Leuven, Belgium. [[slides](/files/Nie-2022-BCGL.pdf)]
 
