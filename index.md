@@ -17,7 +17,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 - June 2024: Distinguishing Tagalog valency and voice. [*AFLA 31*](https://websites.umass.edu/afla31/) invited talk. 
 
-- May 2024: [Ordering preferences in Ukrainian multiple *wh*-fronting](https://doi.org/10.3765/plsa.v9i1.5661). *Proceedings of LSA 2024* (with Ruby Buenrostro).
+- May 2024: Ordering preferences in Ukrainian multiple *wh*-fronting. *Proceedings of LSA 2024* (with Ruby Buenrostro). DOI: [10.3765/plsa.v9i1.5661](https://doi.org/10.3765/plsa.v9i1.5661)
 
 - April 2024: [Tagalog valency morphology and its neutralization](/files/Nie-Hsieh-2024-AFLA.pdf). To appear. *Proceedings of AFLA 30* (with Henrison Hsieh).
 
