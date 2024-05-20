@@ -40,7 +40,7 @@ Accepted with revisions. *Morphology* (with Johannes Hein, Imke Driemel, Fabienn
 
 ### Papers
 
-- Nie, Yining and Henrison Hsieh. To appear. Tagalog valency morphology and its neutralization.<br><i>Proceedings of AFLA 30</i>. [[paper] (/files/Nie-Hsieh-2024-LSA.pdf)]
+- Nie, Yining and Henrison Hsieh. To appear. Tagalog valency morphology and its neutralization.<br><i>Proceedings of AFLA 30</i>. [[paper](/files/Nie-Hsieh-2024-LSA.pdf)]
 
 - Buenrostro, Ruby and Yining Nie. 2024. Ordering preferences in Ukrainian multiple <i>wh</i>-fronting.<br><i>Proceedings of LSA 2024</i>. DOI: [10.3765/plsa.v9i1.5661](https://doi.org/10.3765/plsa.v9i1.5661)
 
