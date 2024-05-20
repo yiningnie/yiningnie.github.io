@@ -17,7 +17,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 - June 2024: Distinguishing Tagalog valency and voice. [*AFLA 31*](https://websites.umass.edu/afla31/) invited talk. 
 
-- May 2024: Ordering preferences in Ukrainian multiple *wh*-fronting. *Proceedings of LSA 2024* (with Ruby Buenrostro). DOI: [10.3765/plsa.v9i1.5661](https://doi.org/10.3765/plsa.v9i1.5661)
+- May 2024: [Ordering preferences in Ukrainian multiple *wh*-fronting](https://doi.org/10.3765/plsa.v9i1.5661). *Proceedings of LSA 2024* (with Ruby Buenrostro).
 
 - April 2024: [Tagalog valency morphology and its neutralization](/files/Nie-Hsieh-2024-AFLA.pdf). To appear. *Proceedings of AFLA 30* (with Henrison Hsieh).
 
@@ -26,7 +26,7 @@ Accepted with revisions. *Morphology* (with Johannes Hein, Imke Driemel, Fabienn
 
 - January 2024: [Interpreting causatives: The case of *faire se* in French and Italian](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf). *LSA 2024* poster (with Fabienne Martin, Chiara Dal Farra and Silvia Silleresi).
 
-- November 2023: Applicative recursion and nominal licensing. *Linguistic Inquiry* (early access). DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513)
+- November 2023: [Applicative recursion and nominal licensing](https://doi.org/10.1162/ling_a_00513). *Linguistic Inquiry* (early access).
 
 <p><a name="publications"> </a></p>
 
