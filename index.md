@@ -15,7 +15,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 - June 2024: Adjective ordering in Iu Mien. [*SEALS 33*](https://sites.google.com/view/seals33/home) talk (with Low Saelee).
 
-- June 2024: Distinguishing Tagalog valency and voice. [*AFLA 31*](https://websites.umass.edu/afla31/) invited talk. 
+- June 2024: [Distinguishing Tagalog valency and voice](/files/Nie-AFLA-2024.pdf). *AFLA 31* invited talk. 
 
 - May 2024: [Ordering preferences in Ukrainian multiple *wh*-fronting](https://doi.org/10.3765/plsa.v9i1.5661). *Proceedings of LSA 2024* (with Ruby Buenrostro).
 
@@ -86,6 +86,8 @@ Accepted with revisions. *Morphology* (with Johannes Hein, Imke Driemel, Fabienn
 ## Presentations
 
 Recent and selected presentations that have not (yet) appeared in a paper version. Feel free to email me for other materials not listed here.
+
+- Nie, Yining. 2024. Distinguishing Tagalog valency and voice.<br>*AFLA 31*, University of Massachusetts Amherst. [[slides](/files/Nie-AFLA-2024.pdf).
 
 - Nie, Yining, Fabienne Martin, Chiara Dal Farra and Silvia Silleresi. 2024. Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024*, New York City. [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
 
