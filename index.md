@@ -87,7 +87,7 @@ Accepted with revisions. *Morphology* (with Johannes Hein, Imke Driemel, Fabienn
 
 Recent and selected presentations that have not (yet) appeared in a paper version. Feel free to email me for other materials not listed here.
 
-- Nie, Yining. 2024. Distinguishing Tagalog valency and voice.<br>*AFLA 31*, University of Massachusetts Amherst. [[slides](/files/Nie-AFLA-2024.pdf).
+- Nie, Yining. 2024. Distinguishing Tagalog valency and voice.<br>*AFLA 31*, University of Massachusetts Amherst. [[slides](/files/Nie-AFLA-2024.pdf)]
 
 - Nie, Yining, Fabienne Martin, Chiara Dal Farra and Silvia Silleresi. 2024. Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024*, New York City. [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
 
