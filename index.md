@@ -13,6 +13,9 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ### Recent and upcoming
 
+- July 2024: [Errors of multiple exponence in Child English: A study of past tense formation](https://lingbuzz.net/lingbuzz/008255). 
+To appear. *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
+
 - June 2024: Adjective ordering in Iu Mien. [*SEALS 33*](https://sites.google.com/view/seals33/home) talk (with Low Saelee).
 
 - June 2024: [Distinguishing Tagalog valency and voice](https://osf.io/7n6p2). *AFLA 31* invited talk.
@@ -20,9 +23,6 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 - May 2024: [Ordering preferences in Ukrainian multiple *wh*-fronting](https://doi.org/10.3765/plsa.v9i1.5661). *Proceedings of LSA 2024* (with Ruby Buenrostro).
 
 - April 2024: [Tagalog valency morphology and its neutralization](/files/Nie-Hsieh-2024-AFLA.pdf). To appear. *Proceedings of AFLA 30* (with Henrison Hsieh).
-
-- February 2024: Errors of multiple exponence in Child English: A study of past tense formation. 
-Accepted with revisions. *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
 
 - January 2024: [Interpreting causatives: The case of *faire se* in French and Italian](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf). *LSA 2024* poster (with Fabienne Martin, Chiara Dal Farra and Silvia Silleresi).
 
@@ -40,12 +40,12 @@ Accepted with revisions. *Morphology* (with Johannes Hein, Imke Driemel, Fabienn
 
 ### Papers
 
+- Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Errors of multiple exponence in Child English: A study of past tense formation.<br>
+<i>Morphology</i>. [[paper](https://lingbuzz.net/lingbuzz/008255)]
+
 - Nie, Yining and Henrison Hsieh. To appear. Tagalog valency morphology and its neutralization.<br><i>Proceedings of AFLA 30</i>. [[paper](/files/Nie-Hsieh-2024-AFLA.pdf)]
 
 - Buenrostro, Ruby and Yining Nie. 2024. Ordering preferences in Ukrainian multiple <i>wh</i>-fronting.<br><i>Proceedings of LSA 2024</i>. DOI: [10.3765/plsa.v9i1.5661](https://doi.org/10.3765/plsa.v9i1.5661)
-
-- Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. Accepted. Errors of multiple exponence in Child English: A study of past tense formation.<br>
-<i>Morphology</i> (pending revisions).
 
 - Nie, Yining. 2023. Applicative recursion and nominal licensing.<br><i>Linguistic Inquiry</i> (early access). DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513)
 
