@@ -13,7 +13,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ### Recent and upcoming
 
-- July 2024: [Errors of multiple exponence in Child English: A study of past tense formation](https://lingbuzz.net/lingbuzz/008255). 
+- July 2024: [Errors of multiple exponence in child English: A study of past tense formation](https://lingbuzz.net/lingbuzz/008255). 
 To appear. *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
 
 - June 2024: Adjective ordering in Iu Mien. [*SEALS 33*](https://sites.google.com/view/seals33/home) talk (with Low Saelee).
@@ -40,7 +40,7 @@ To appear. *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and A
 
 ### Papers
 
-- Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Errors of multiple exponence in Child English: A study of past tense formation.<br>
+- Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Errors of multiple exponence in child English: A study of past tense formation.<br>
 <i>Morphology</i>. [[paper](https://lingbuzz.net/lingbuzz/008255)]
 
 - Nie, Yining and Henrison Hsieh. To appear. Tagalog valency morphology and its neutralization.<br><i>Proceedings of AFLA 30</i>. [[paper](/files/Nie-Hsieh-2024-AFLA.pdf)]
@@ -56,7 +56,7 @@ To appear. *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and A
 - Nie, Yining. 2022. Turkish causatives are recursive: A response to Key 2013.<br><i>Linguistic Inquiry</i> (early access). DOI: [10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472)
 
 - Martin, Fabienne, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2022. Wearing causation on its sleeve: Overt <i>cause</i> in child French causatives.<br><i>Proceedings of BUCLD 46</i>. [[paper](http://www.lingref.com/bucld/46/BUCLD46-38.pdf)]
-
+\part{title}
 - Kouneli, Maria and Yining Nie. 2021. Across-the-board tonal polarity in Kipsigis: Implications for the morphology-phonology interface.<br><i>Language</i> 97(2). e111-e138. DOI: [10.1353/lan.2021.0030](https://doi.org/10.1353/lan.2021.0030) [[paper](/files/Kouneli-Nie-2021-Language.pdf)]
 
 - Nie, Yining. 2020. Morphological causatives are Voice over Voice.<br> <i>Word Structure</i> 13(1). 102-126. DOI: [10.3366/word.2020.0161](https://doi.org/10.3366/word.2020.0161) [[paper](/files/Nie-2020-Morphological-causatives.pdf)]
