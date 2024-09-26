@@ -7,16 +7,16 @@ layout: default
 
 I am a linguist specializing in comparative syntax and morphology, especially in the domain of argument structure. My research incorporates syntactic theory and insights from typology and experimental methods. I have a particular interest in causative constructions and Austronesian languages.
 
-In addition to teaching syntax and semantics at SJSU, I am also affiliated with the ERC-funded [LeibnizDream](https://leibnizdream.eu) project. I received my PhD from [New York University](https://as.nyu.edu/departments/linguistics/homepage.html). I'm from the southernmost city in Canada. 🇨🇦
+In addition to teaching syntax and semantics at [San José State University](https://www.sjsu.edu/linguistics/), I am also affiliated with the ERC-funded [LeibnizDream](https://leibnizdream.eu) project. I received my PhD from [New York University](https://as.nyu.edu/departments/linguistics/homepage.html). I'm from the southernmost city in Canada. 🇨🇦
 
 How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 ### Recent and upcoming
 
+- September 2024: [Adjective ordering in Iu Mien](/files/Saelee-Nie-2024-SEALS.pdf). Submitted. *Proceedings of SEALS 33* (with Low Saelee).
+
 - July 2024: [Errors of multiple exponence in child English: A study of past tense formation](https://lingbuzz.net/lingbuzz/008255). 
 To appear. *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
-
-- June 2024: Adjective ordering in Iu Mien. [*SEALS 33*](https://sites.google.com/view/seals33/home) talk (with Low Saelee).
 
 - June 2024: [Distinguishing Tagalog valency and voice](https://osf.io/7n6p2). *AFLA 31* invited talk.
 
@@ -39,6 +39,9 @@ To appear. *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and A
 - Manova, Stela, Harald Hammarström, Itamar Kastner and Yining Nie. 2020. <i>What is in a morpheme?</i> Special issue of <i>Word Structure</i> 13(1). Edinburgh University Press. ISSN: [1750-1245](https://www.euppublishing.com/toc/word/13/1).
 
 ### Papers
+
+- Saelee, Low and Yining Nie. Submitted. Adjective ordering in Iu Mien.<br> 
+<i>Proceedings of SEALS 33</i>. [[paper](/files/Saelee-Nie-2024-SEALS.pdf)]
 
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Errors of multiple exponence in child English: A study of past tense formation.<br>
 <i>Morphology</i>. [[paper](https://lingbuzz.net/lingbuzz/008255)]
