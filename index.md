@@ -18,7 +18,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 - July 2024: [Errors of multiple exponence in child English: A study of past tense formation](https://lingbuzz.net/lingbuzz/008255). 
 To appear. *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
 
-- June 2024: [Jim Wood: \textit{Icelandic nominalizations and allosemy}](https://doi.org/10.1515/flin-2024-2030). *Folia Linguistica* book review.
+- June 2024: [Jim Wood: *Icelandic nominalizations and allosemy*](https://doi.org/10.1515/flin-2024-2030). *Folia Linguistica* book review.
 
 - June 2024: [Distinguishing Tagalog valency and voice](https://osf.io/7n6p2). *AFLA 31* invited talk.
 
@@ -48,7 +48,7 @@ To appear. *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and A
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Errors of multiple exponence in child English: A study of past tense formation.<br>
 <i>Morphology</i>. [[paper](https://lingbuzz.net/lingbuzz/008255)]
 
-- Nie, Yining. Jim Wood: \textit{Icelandic nominalizations and allosemy}.<br>
+- Nie, Yining. 2024. Jim Wood: <i>Icelandic nominalizations and allosemy</i>.<br>
 Book review, <i>Folia Linguistica</i> 58(2): 571-579. DOI: [10.1515/flin-2024-2030](https://doi.org/10.1515/flin-2024-2030)
 
 - Nie, Yining and Henrison Hsieh. To appear. Tagalog valency morphology and its neutralization.<br><i>Proceedings of AFLA 30</i>. [[paper](/files/Nie-Hsieh-2024-AFLA.pdf)]
