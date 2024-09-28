@@ -7,7 +7,7 @@ layout: default
 
 I am a linguist specializing in comparative syntax and morphology, especially in the domain of argument structure. My research incorporates syntactic theory and insights from typology and experimental methods. I have a particular interest in causative constructions and Austronesian languages.
 
-In addition to teaching syntax and semantics at [San José State University](https://www.sjsu.edu/linguistics/), I am also affiliated with the ERC-funded [LeibnizDream](https://leibnizdream.eu) project. I received my PhD from [New York University](https://as.nyu.edu/departments/linguistics/homepage.html). I'm from the southernmost city in Canada. 🇨🇦
+In addition to teaching syntax and semantics at [San José State University](https://www.sjsu.edu/linguistics/), I am also affiliated with the ERC-funded [LeibnizDream](https://leibnizdream.eu) project. I received my PhD from [New York University](https://as.nyu.edu/departments/linguistics.html). I'm from the southernmost city in Canada. 🇨🇦
 
 How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
