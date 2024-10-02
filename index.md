@@ -23,7 +23,7 @@ Papers
 - [Adjective ordering in Iu Mien](/files/Saelee-Nie-2024-SEALS.pdf). Submitted, *Proceedings of SEALS 33* (with Low Saelee).
 - [Errors of multiple exponence in child English: A study of past tense formation](https://lingbuzz.net/lingbuzz/008255). 
 To appear, *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
-- [Jim Wood: *Icelandic nominalizations and allosemy*](https://doi.org/10.1515/flin-2024-2030). *Folia Linguistica* book review.
+- [Jim Wood: *Icelandic nominalizations and allosemy*](https://doi.org/10.1515/flin-2024-2030). *Folia Linguistica* book review. [[paper](/files/Nie-2024-FL.pdf)]
 - [Ordering preferences in Ukrainian multiple *wh*-fronting](https://doi.org/10.3765/plsa.v9i1.5661). *Proceedings of LSA 2024* (with Ruby Buenrostro).
 - [Tagalog valency morphology and its neutralization](/files/Nie-Hsieh-2024-AFLA.pdf). To appear, *Proceedings of AFLA 30* (with Henrison Hsieh).
 - [Applicative recursion and nominal licensing](https://doi.org/10.1162/ling_a_00513). *Linguistic Inquiry* (early access).
