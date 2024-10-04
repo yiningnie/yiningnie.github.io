@@ -20,13 +20,13 @@ Presentations
 
 Papers
 
+- [Applicative recursion and nominal licensing](https://doi.org/10.1162/ling_a_00513). *Linguistic Inquiry*.
 - [Adjective ordering in Iu Mien](/files/Saelee-Nie-2024-SEALS.pdf). Submitted, *Proceedings of SEALS 33* (with Low Saelee).
 - [Errors of multiple exponence in child English: A study of past tense formation](https://lingbuzz.net/lingbuzz/008255). 
 To appear, *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
 - [Jim Wood: *Icelandic nominalizations and allosemy*](https://doi.org/10.1515/flin-2024-2030). *Folia Linguistica* book review.
 - [Ordering preferences in Ukrainian multiple *wh*-fronting](https://doi.org/10.3765/plsa.v9i1.5661). *Proceedings of LSA 2024* (with Ruby Buenrostro).
 - [Tagalog valency morphology and its neutralization](/files/Nie-Hsieh-2024-AFLA.pdf). To appear, *Proceedings of AFLA 30* (with Henrison Hsieh).
-- [Applicative recursion and nominal licensing](https://doi.org/10.1162/ling_a_00513). *Linguistic Inquiry* (early access).
 
 
 <p><a name="publications"> </a></p>
@@ -54,7 +54,8 @@ Book review, <i>Folia Linguistica</i> 58(2): 571-579. DOI: [10.1515/flin-2024-20
 
 - Buenrostro, Ruby and Yining Nie. 2024. Ordering preferences in Ukrainian multiple <i>wh</i>-fronting.<br><i>Proceedings of LSA 2024</i>. DOI: [10.3765/plsa.v9i1.5661](https://doi.org/10.3765/plsa.v9i1.5661)
 
-- Nie, Yining. 2023. Applicative recursion and nominal licensing.<br><i>Linguistic Inquiry</i> (early access). DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513)
+- Nie, Yining. 2024. Applicative recursion and nominal licensing.<br>
+<i>Linguistic Inquiry</i> 55(4): 725-768. DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513)
 
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Errors of multiple exponence in child language.<br><i>Proceedings of WCCFL 40</i>. [[paper](https://ling.auf.net/lingbuzz/006784)]
 
