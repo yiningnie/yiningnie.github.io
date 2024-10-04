@@ -16,7 +16,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 Presentations
 
 - [Distinguishing Tagalog valency and voice](https://osf.io/7n6p2). *AFLA 31* invited talk.
-- [Interpreting causatives: The case of *faire se* in French and Italian](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf). *LSA 2024* poster (with Fabienne Martin, Chiara Dal Farra and Silvia Silleresi).
+- [Does occluding the agent’s body affect Italian children's production of argument structure?](/files/Dal Farra-Silleresi-Martin-Nie-Alexiadou-Guasti-GALA-2024.pdf). *GALA 16* talk (with Chiara Dal Farra, Silvia Silleresi, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti).
 
 Papers
 
@@ -95,9 +95,14 @@ Book review, <i>Folia Linguistica</i> 58(2): 571-579. DOI: [10.1515/flin-2024-20
 
 Recent and selected presentations that have not (yet) appeared in a paper version. Feel free to email me for other materials not listed here.
 
-- Nie, Yining. 2024. Distinguishing Tagalog valency and voice.<br>*AFLA 31*, University of Massachusetts Amherst. [[slides](https://osf.io/7n6p2)]
+- Dal Farra, Chiara, Silvia Silleresi, Fabienne Martin, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2024. Does occluding the agent’s body affect Italian children's production of argument structure? <br>
+*GALA 16*, NOVA University of Lisbon. [[slides](/files/Dal Farra-Silleresi-Martin-Nie-Alexiadou-Guasti-GALA-2024.pdf)].
 
-- Nie, Yining, Fabienne Martin, Chiara Dal Farra and Silvia Silleresi. 2024. Interpreting causatives: The case of *faire se* in French and Italian.<br>*LSA 2024*, New York City. [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
+- Nie, Yining. 2024. Distinguishing Tagalog valency and voice.<br>
+*AFLA 31*, University of Massachusetts Amherst. [[slides](https://osf.io/7n6p2)]
+
+- Nie, Yining, Fabienne Martin, Chiara Dal Farra and Silvia Silleresi. 2024. Interpreting causatives: The case of *faire se* in French and Italian.<br>
+*LSA 2024*, New York City. [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
 
 - Martin, Fabienne, Yining Nie, Silvia Silleresi, Chiara Dal Farra, Artemis Alexiadou and Maria Teresa Guasti. 2023. Agent bias in child Italian event descriptions.<br>*LSA 2023*, Denver, CO. [[slides](/files/Martin-Nie-Silleresi-Dal Farra-LSA-2023.pdf)]
 
