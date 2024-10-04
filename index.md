@@ -15,8 +15,8 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 Presentations
 
+- [Does occluding the agent’s body affect Italian children's production of argument structure?](/files/Dal Farra-Silleresi-Martin-Nie-Alexiadou-Guasti-GALA-2024.pdf) *GALA 16* talk (with Chiara Dal Farra, Silvia Silleresi, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti).
 - [Distinguishing Tagalog valency and voice](https://osf.io/7n6p2). *AFLA 31* invited talk.
-- [Does occluding the agent’s body affect Italian children's production of argument structure?](/files/Dal Farra-Silleresi-Martin-Nie-Alexiadou-Guasti-GALA-2024.pdf). *GALA 16* talk (with Chiara Dal Farra, Silvia Silleresi, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti).
 
 Papers
 
