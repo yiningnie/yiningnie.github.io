@@ -24,7 +24,7 @@ Papers
 - [Adjective ordering in Iu Mien](/files/Saelee-Nie-2024-SEALS.pdf). Submitted, *Proceedings of SEALS 33* (with Low Saelee).
 - [Errors of multiple exponence in child English: A study of past tense formation](https://lingbuzz.net/lingbuzz/008255). 
 To appear, *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
-- [Jim Wood: *Icelandic nominalizations and allosemy*](https://doi.org/10.1515/flin-2024-2030). *Folia Linguistica* book review.
+- [Jim Wood: *Icelandic nominalizations and allosemy*](/files/Nie-2024-FL.pdf). *Folia Linguistica* book review.
 - [Ordering preferences in Ukrainian multiple *wh*-fronting](https://doi.org/10.3765/plsa.v9i1.5661). *Proceedings of LSA 2024* (with Ruby Buenrostro).
 - [Tagalog valency morphology and its neutralization](/files/Nie-Hsieh-2024-AFLA.pdf). To appear, *Proceedings of AFLA 30* (with Henrison Hsieh).
 
@@ -48,7 +48,7 @@ To appear, *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and A
 <i>Morphology</i>. [[paper](https://lingbuzz.net/lingbuzz/008255)]
 
 - Nie, Yining. 2024. Jim Wood: <i>Icelandic nominalizations and allosemy</i>.<br>
-Book review, <i>Folia Linguistica</i> 58(2): 571-579. DOI: [10.1515/flin-2024-2030](https://doi.org/10.1515/flin-2024-2030)
+Book review, <i>Folia Linguistica</i> 58(2): 571-579. DOI: [10.1515/flin-2024-2030](https://doi.org/10.1515/flin-2024-2030) [[paper](/files/Nie-2024-FL.pdf)]
 
 - Nie, Yining and Henrison Hsieh. To appear. Tagalog valency morphology and its neutralization.<br><i>Proceedings of AFLA 30</i>. [[paper](/files/Nie-Hsieh-2024-AFLA.pdf)]
 
