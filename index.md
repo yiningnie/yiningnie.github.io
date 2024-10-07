@@ -15,7 +15,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 Presentations
 
-- [Does occluding the agent’s body affect Italian children's production of argument structure?](/files/Dal Farra-Silleresi-Martin-Nie-Alexiadou-Guasti-GALA-2024.pdf) *GALA 16* talk (with Chiara Dal Farra, Silvia Silleresi, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti).
+- [Does occluding the agent's body affect Italian children's production of argument structure?](/files/Dal Farra-Silleresi-Martin-Nie-Alexiadou-Guasti-GALA-2024.pdf) *GALA 16* talk (with Chiara Dal Farra, Silvia Silleresi, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti).
 - [Distinguishing Tagalog valency and voice](https://osf.io/7n6p2). *AFLA 31* invited talk.
 
 Papers
@@ -95,7 +95,7 @@ Book review, <i>Folia Linguistica</i> 58(2): 571-579. DOI: [10.1515/flin-2024-20
 
 Recent and selected presentations that have not (yet) appeared in a paper version. Feel free to email me for other materials not listed here.
 
-- Dal Farra, Chiara, Silvia Silleresi, Fabienne Martin, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2024. Does occluding the agent’s body affect Italian children's production of argument structure? <br>
+- Dal Farra, Chiara, Silvia Silleresi, Fabienne Martin, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2024. Does occluding the agent's body affect Italian children's production of argument structure? <br>
 *GALA 16*, NOVA University of Lisbon. [[slides](/files/Dal Farra-Silleresi-Martin-Nie-Alexiadou-Guasti-GALA-2024.pdf)]
 
 - Nie, Yining. 2024. Distinguishing Tagalog valency and voice.<br>
