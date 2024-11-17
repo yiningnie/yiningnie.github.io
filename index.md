@@ -21,8 +21,8 @@ Presentations
 
 Papers
 
-- [Tagalog valency morphology and its neutralization](/files/Nie-Hsieh-2024-AFLA.pdf). Accepted, *Studia Linguistica* (pending revisions, with Henrison Hsieh).
-- [Adjective ordering in Iu Mien](/files/Saelee-Nie-2024-SEALS.pdf). To appear, *Proceedings of SEALS 33* (with Low Saelee).
+- [Tagalog valency morphology and its neutralization](/files/Nie-Hsieh-2024-AFLA.pdf). Accepted with revisions, *Studia Linguistica* (with Henrison Hsieh).
+- [Adjective ordering in Iu Mien](/files/Saelee-Nie-2024-SEALS.pdf). Accepted with revisions, *Proceedings of SEALS 33* (with Low Saelee).
 - [Applicative recursion and nominal licensing](https://doi.org/10.1162/ling_a_00513). *Linguistic Inquiry*.
 - [Errors of multiple exponence in child English: A study of past tense formation](https://lingbuzz.net/lingbuzz/008255). 
 To appear, *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
@@ -42,9 +42,9 @@ To appear, *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and A
 
 ### Papers
 
-- Nie, Yining and Henrison Hsieh. Accepted. Tagalog valency morphology and its neutralization.<br><i>Studia Linguistica</i> (pending revisions). [[paper](/files/Nie-Hsieh-2024-AFLA.pdf)]
+- Nie, Yining and Henrison Hsieh. Accepted with revisions. Tagalog valency morphology and its neutralization.<br><i>Studia Linguistica</i>. [[paper](/files/Nie-Hsieh-2024-AFLA.pdf)]
 
-- Saelee, Low and Yining Nie. To appear. Adjective ordering in Iu Mien.<br>
+- Saelee, Low and Yining Nie. Accepted with revisions. Adjective ordering in Iu Mien.<br>
 <i>Proceedings of SEALS 33</i>. [[paper](/files/Saelee-Nie-2024-SEALS.pdf)]
 
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Errors of multiple exponence in child English: A study of past tense formation.<br>
