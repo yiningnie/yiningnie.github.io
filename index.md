@@ -21,13 +21,13 @@ Presentations
 
 Papers
 
+- [Tagalog valency morphology and its neutralization](/files/Nie-Hsieh-2024-AFLA.pdf). Accepted, *Studia Linguistica* (pending revisions, with Henrison Hsieh).
+- [Adjective ordering in Iu Mien](/files/Saelee-Nie-2024-SEALS.pdf). To appear, *Proceedings of SEALS 33* (with Low Saelee).
 - [Applicative recursion and nominal licensing](https://doi.org/10.1162/ling_a_00513). *Linguistic Inquiry*.
-- [Adjective ordering in Iu Mien](/files/Saelee-Nie-2024-SEALS.pdf). Submitted, *Proceedings of SEALS 33* (with Low Saelee).
 - [Errors of multiple exponence in child English: A study of past tense formation](https://lingbuzz.net/lingbuzz/008255). 
 To appear, *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
 - [Jim Wood: *Icelandic nominalizations and allosemy*](/files/Nie-2024-FL.pdf). *Folia Linguistica* book review.
 - [Ordering preferences in Ukrainian multiple *wh*-fronting](https://doi.org/10.3765/plsa.v9i1.5661). *Proceedings of LSA 2024* (with Ruby Buenrostro).
-- [Tagalog valency morphology and its neutralization](/files/Nie-Hsieh-2024-AFLA.pdf). To appear, *Proceedings of AFLA 30* (with Henrison Hsieh).
 
 
 <p><a name="publications"> </a></p>
@@ -42,7 +42,9 @@ To appear, *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and A
 
 ### Papers
 
-- Saelee, Low and Yining Nie. Submitted. Adjective ordering in Iu Mien.<br>
+- Nie, Yining and Henrison Hsieh. Accepted. Tagalog valency morphology and its neutralization.<br><i>Studia Linguistica</i> (pending revisions). [[paper](/files/Nie-Hsieh-2024-AFLA.pdf)]
+
+- Saelee, Low and Yining Nie. To appear. Adjective ordering in Iu Mien.<br>
 <i>Proceedings of SEALS 33</i>. [[paper](/files/Saelee-Nie-2024-SEALS.pdf)]
 
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Errors of multiple exponence in child English: A study of past tense formation.<br>
@@ -51,14 +53,12 @@ To appear, *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and A
 - Nie, Yining. 2024. Jim Wood: <i>Icelandic nominalizations and allosemy</i>.<br>
 Book review, <i>Folia Linguistica</i> 58(2): 571-579. DOI: [10.1515/flin-2024-2030](https://doi.org/10.1515/flin-2024-2030) [[paper](/files/Nie-2024-FL.pdf)]
 
-- Nie, Yining and Henrison Hsieh. To appear. Tagalog valency morphology and its neutralization.<br><i>Proceedings of AFLA 30</i>. [[paper](/files/Nie-Hsieh-2024-AFLA.pdf)]
-
 - Buenrostro, Ruby and Yining Nie. 2024. Ordering preferences in Ukrainian multiple <i>wh</i>-fronting.<br><i>Proceedings of LSA 2024</i>. DOI: [10.3765/plsa.v9i1.5661](https://doi.org/10.3765/plsa.v9i1.5661)
 
 - Nie, Yining. 2024. Applicative recursion and nominal licensing.<br>
 <i>Linguistic Inquiry</i> 55(4): 725-768. DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513)
 
-- Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. To appear. Errors of multiple exponence in child language.<br><i>Proceedings of WCCFL 40</i>. [[paper](https://ling.auf.net/lingbuzz/006784)]
+- Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2024. Errors of multiple exponence in child language.<br><i>Proceedings of WCCFL 40</i>. [[paper](https://www.lingref.com/cpp/wccfl/40/paper3704.pdf)]
 
 - Lee, Soo-Hwan and Yining Nie. 2022. Korean case stacking and the nominal template.<br><i>Proceedings of PLC 45</i>. [[paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
 
