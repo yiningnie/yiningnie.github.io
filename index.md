@@ -60,7 +60,7 @@ Book review, <i>Folia Linguistica</i> 58(2): 571-579. DOI: [10.1515/flin-2024-20
 
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2024. Errors of multiple exponence in child language.<br><i>Proceedings of WCCFL 40</i>. [lingref.com/cpp/wccfl/40/paper3704.pdf](https://www.lingref.com/cpp/wccfl/40/paper3704.pdf)
 
-- Lee, Soo-Hwan and Yining Nie. 2022. Korean case stacking and the nominal template.<br><i>Proceedings of PLC 45</i>. [repository.upenn.edu/pwpl/vol28/iss1/11/](https://repository.upenn.edu/pwpl/vol28/iss1/11/)
+- Lee, Soo-Hwan and Yining Nie. 2022. Korean case stacking and the nominal template.<br><i>Proceedings of PLC 45</i>. [repository.upenn.edu/handle/20.500.14332/45338](https://repository.upenn.edu/handle/20.500.14332/45338)
 
 - Nie, Yining. 2022. Turkish causatives are recursive: A response to Key 2013.<br><i>Linguistic Inquiry</i> (early access). DOI: [10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472)
 
@@ -86,7 +86,7 @@ Book review, <i>Folia Linguistica</i> 58(2): 571-579. DOI: [10.1515/flin-2024-20
 
   - Supersedes: Nie, Yining. 2016. Why is there NOM-NOM but no ERG-ERG?<br> <i>Toronto Working Papers in Linguistics</i> 36. [twpl.library.utoronto.ca/index.php/twpl/article/view/26702](https://twpl.library.utoronto.ca/index.php/twpl/article/view/26702)
 
-- Nie, Yining. 2017. Phonetic enhancement and three patterns of English <i>a</i>-tensing.<br><i>Proceedings of PLC 40</i>. [repository.upenn.edu/pwpl/vol23/iss1/21/](https://repository.upenn.edu/pwpl/vol23/iss1/21/)
+- Nie, Yining. 2017. Phonetic enhancement and three patterns of English <i>a</i>-tensing.<br><i>Proceedings of PLC 40</i>. [repository.upenn.edu/handle/20.500.14332/45143](https://repository.upenn.edu/handle/20.500.14332/45143)
 
 - Nie, Yining. 2015. Tense and modality in French verbal morphology.<br><i>Proceedings of CLA 2015</i>. [cla-acl.ca/pdfs/actes-2015/Nie-2015.pdf](https://cla-acl.ca/pdfs/actes-2015/Nie-2015.pdf)
 
@@ -111,4 +111,4 @@ Recent and selected presentations that have not (yet) appeared in a paper versio
 
 - Nie, Yining. 2022. Recursion and thematic relations in causatives.<br>*BCGL 15*, CRISSP, KU Leuven, Belgium. [[slides](/files/Nie-2022-BCGL.pdf)]
 
-- Hsieh, Henrison and Yining Nie. 2020. Tagalog gerunds are antipassive.<br>"Remarks: the Legacy" Workshop, *GLOW 43*, Humboldt-Universität zu Berlin (virtual). [osf.io/ztnek/](https://osf.io/ztnek/)
+- Hsieh, Henrison and Yining Nie. 2020. Tagalog gerunds are antipassive.<br>"Remarks: the Legacy" Workshop, *GLOW 43*, Humboldt-Universität zu Berlin (virtual). [osf.io/ztnek](https://osf.io/ztnek)
