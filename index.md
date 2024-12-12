@@ -48,7 +48,7 @@ Papers
 <i>Proceedings of SEALS 33</i>. [[paper](/files/Saelee-Nie-2024-SEALS.pdf)]
 
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2024. Errors of multiple exponence in child English: A study of past tense formation.<br>
-<i>Morphology</i>. DOI: [10.1007/s11525-024-09434-x](https://doi.org/10.1007/s11525-024-09434-x)
+<i>Morphology</i> (published online). DOI: [10.1007/s11525-024-09434-x](https://doi.org/10.1007/s11525-024-09434-x)
 
 - Nie, Yining. 2024. Jim Wood: <i>Icelandic nominalizations and allosemy</i>.<br>
 Book review, <i>Folia Linguistica</i> 58(2): 571-579. DOI: [10.1515/flin-2024-2030](https://doi.org/10.1515/flin-2024-2030) [[paper](/files/Nie-2024-FL.pdf)]
