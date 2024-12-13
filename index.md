@@ -98,7 +98,7 @@ Book review, <i>Folia Linguistica</i> 58(2): 571-579. DOI: [10.1515/flin-2024-20
 Recent and selected presentations that have not (yet) appeared in a paper version. Feel free to email me for other materials not listed here.
 
 - Nie, Yining. 2024. Voice-over-Voice causatives.<br>
-Converging On Causal Ontology Analyses (COCOA), Structures Formelles du Langage, CNRS/Paris 8. [[slides](/files/Nie-2024-COCOA.pdf)]
+Converging On Causal Ontology Analyses (COCOA), Structures Formelles du Langage, CNRS/Université Paris 8. [[slides](/files/Nie-2024-COCOA.pdf)]
 
 - Dal Farra, Chiara, Silvia Silleresi, Fabienne Martin, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2024. Does occluding the agent's body affect Italian children's production of argument structure? <br>
 *GALA 16*, NOVA University of Lisbon. [[slides](/files/Dal Farra-Silleresi-Martin-Nie-Alexiadou-Guasti-GALA-2024.pdf)]
