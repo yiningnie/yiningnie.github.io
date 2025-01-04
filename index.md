@@ -109,10 +109,6 @@ COCOA, SFL, CNRS/Université Paris 8. [[slides](/files/Nie-2024-COCOA.pdf)]
 - Nie, Yining, Fabienne Martin, Chiara Dal Farra and Silvia Silleresi. 2024. Interpreting causatives: The case of *faire se* in French and Italian.<br>
 *LSA 2024*, New York City. [[poster](/files/Nie-Martin-Dal Farra-Silleresi-LSA-2024.pdf)]
 
-- Martin, Fabienne, Yining Nie, Silvia Silleresi, Chiara Dal Farra, Artemis Alexiadou and Maria Teresa Guasti. 2023. Agent bias in child Italian event descriptions.<br>*LSA 2023*, Denver, CO. [[slides](/files/Martin-Nie-Silleresi-Dal Farra-LSA-2023.pdf)]
-
-- Silleresi, Silvia, Chiara Dal Farra, Yining Nie, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti. 2022. The agent bias holds in production too: Event descriptions in child Italian.<br>*BUCLD 47*, Boston University. [[slides](/files/Silleresi-Dal Farra-Nie-Martin-BU-2022.pdf)]
-
 - Nie, Yining. 2022. Recursion and thematic relations in causatives.<br>*BCGL 15*, CRISSP, KU Leuven, Belgium. [[slides](/files/Nie-2022-BCGL.pdf)]
 
 - Hsieh, Henrison and Yining Nie. 2020. Tagalog gerunds are antipassive.<br>"Remarks: the Legacy" Workshop, *GLOW 43*, Humboldt-Universität zu Berlin (virtual). [osf.io/ztnek](https://osf.io/ztnek)
