@@ -15,7 +15,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 Presentations
 
-- [Adjectives and language contact in Iu Mien](/files/Saelee-Nie-LSA-2025.pdf). *LSA 2025* talk (with Low Saelee).
+- [Adjectives are not verbs in Iu Mien](/files/Saelee-Nie-LSA-2025.pdf). *LSA 2025* talk (with Low Saelee).
 - [Voice-over-Voice causatives](/files/Nie-2024-COCOA.pdf). Converging On Causal Ontology Analyses (COCOA), Structures Formelles du Langage, CNRS/Paris 8 invited talk.
 - [Does occluding the agent's body affect Italian children's production of argument structure?](/files/Dal Farra-Silleresi-Martin-Nie-Alexiadou-Guasti-GALA-2024.pdf) *GALA 16* talk (with Chiara Dal Farra, Silvia Silleresi, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti).
 - [Distinguishing Tagalog valency and voice](https://osf.io/7n6p2). *AFLA 31* invited talk.
@@ -45,7 +45,7 @@ Papers
 
 - Nie, Yining and Henrison Hsieh. Accepted with revisions. Tagalog valency morphology and its neutralization.<br><i>Studia Linguistica</i>. [[paper](/files/Nie-Hsieh-2024-AFLA.pdf)]
 
-- Saelee, Low and Yining Nie. To appear. Adjective ordering in Iu Mien.<br>
+- Saelee, Low and Yining Nie. To appear. Adjectives are not verbs in Iu Mien.<br>
 <i>Proceedings of SEALS 33</i>. [[paper](/files/Saelee-Nie-2024-SEALS.pdf)]
 
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2024. Errors of multiple exponence in child English: A study of past tense formation.<br>
