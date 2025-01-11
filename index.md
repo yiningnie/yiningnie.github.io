@@ -15,7 +15,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 Presentations
 
-- Adjectives and language contact in Iu Mien. *LSA 2025* talk (with Low Saelee).
+- [Adjectives and language contact in Iu Mien](/files/Saelee-Nie-LSA-2025.pdf). *LSA 2025* talk (with Low Saelee).
 - [Voice-over-Voice causatives](/files/Nie-2024-COCOA.pdf). Converging On Causal Ontology Analyses (COCOA), Structures Formelles du Langage, CNRS/Paris 8 invited talk.
 - [Does occluding the agent's body affect Italian children's production of argument structure?](/files/Dal Farra-Silleresi-Martin-Nie-Alexiadou-Guasti-GALA-2024.pdf) *GALA 16* talk (with Chiara Dal Farra, Silvia Silleresi, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti).
 - [Distinguishing Tagalog valency and voice](https://osf.io/7n6p2). *AFLA 31* invited talk.
@@ -96,6 +96,9 @@ Book review, <i>Folia Linguistica</i> 58(2): 571-579. DOI: [10.1515/flin-2024-20
 ## Presentations
 
 Recent and selected presentations that have not (yet) appeared in a paper version. Feel free to email me for other materials not listed here.
+
+- Saelee, Low and Yining Nie. 2025. Adjectives and language contact in Iu Mien.<br>
+*LSA 2025*, Philadelphia. [[slides](/files/Saelee-Nie-LSA-2025.pdf)]
 
 - Nie, Yining. 2024. Voice-over-Voice causatives.<br>
 COCOA, SFL, CNRS/Université Paris 8. [[slides](/files/Nie-2024-COCOA.pdf)]
