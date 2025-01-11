@@ -45,7 +45,7 @@ Papers
 
 - Nie, Yining and Henrison Hsieh. Accepted with revisions. Tagalog valency morphology and its neutralization.<br><i>Studia Linguistica</i>. [[paper](/files/Nie-Hsieh-2024-AFLA.pdf)]
 
-- Saelee, Low and Yining Nie. To appear. Adjectives are not verbs in Iu Mien.<br>
+- Saelee, Low and Yining Nie. To appear. Adjective ordering in Iu Mien.<br>
 <i>Proceedings of SEALS 33</i>. [[paper](/files/Saelee-Nie-2024-SEALS.pdf)]
 
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2024. Errors of multiple exponence in child English: A study of past tense formation.<br>
@@ -97,7 +97,7 @@ Book review, <i>Folia Linguistica</i> 58(2): 571-579. DOI: [10.1515/flin-2024-20
 
 Recent and selected presentations that have not (yet) appeared in a paper version. Feel free to email me for other materials not listed here.
 
-- Saelee, Low and Yining Nie. 2025. Adjectives and language contact in Iu Mien.<br>
+- Saelee, Low and Yining Nie. 2025. Adjectives are not verbs in Iu Mien.<br>
 *LSA 2025*, Philadelphia. [[slides](/files/Saelee-Nie-LSA-2025.pdf)]
 
 - Nie, Yining. 2024. Voice-over-Voice causatives.<br>
