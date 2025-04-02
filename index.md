@@ -22,14 +22,14 @@ Presentations
 
 Papers
 
-- [Adjectives are not verbs in Iu Mien](/files/Saelee-Nie-2025-LSA.pdf). To appear, *Proceedings of LSA 2025* (with Low Saelee).
 - [Tagalog valency morphology and its neutralization](/files/Nie-Hsieh-2025-STUL.pdf). To appear, *Studia Linguistica* (with Henrison Hsieh).
 - [Adjective ordering in Iu Mien](/files/Saelee-Nie-2024-SEALS.pdf). To appear, *Proceedings of SEALS 33* (with Low Saelee).
 - [Errors of multiple exponence in child English: A study of past tense formation](https://doi.org/10.1007/s11525-024-09434-x). 
 *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
 - [Turkish causatives are recursive: A response to Key 2013](https://doi.org/10.1162/ling_a_00472). *Linguistic Inquiry*.
 - [Applicative recursion and nominal licensing](https://doi.org/10.1162/ling_a_00513). *Linguistic Inquiry*.
-
+- [Jim Wood: Icelandic nominalizations and allosemy](/files/Nie-2024-FL.pdf. *Folia Linguistica* book review.
+- [Ordering preferences in Ukrainian multiple wh-fronting](https://doi.org/10.3765/plsa.v9i1.5661). *Proceedings of LSA 2024* (with Ruby Buenrostro).
 
 <p><a name="publications"> </a></p>
 
