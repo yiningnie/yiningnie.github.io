@@ -7,7 +7,7 @@ layout: default
 
 I am a linguist specializing in comparative syntax and morphology, especially in the domain of argument structure. My research incorporates syntactic theory and insights from typology and experimental methods. I have a particular interest in causative constructions and Austronesian languages.
 
-In addition to teaching syntax and semantics at [San José State University](https://www.sjsu.edu/linguistics/), I am also affiliated with the ERC-funded [LeibnizDream](https://leibnizdream.eu) project. I received my PhD from [New York University](https://as.nyu.edu/departments/linguistics.html). I'm from the southernmost city in Canada. 🇨🇦
+In addition to teaching syntax and semantics at [San José State University](https://www.sjsu.edu/linguistics/), I am also affiliated with the ERC Synergy Project [LeibnizDream](https://leibnizdream.eu) and the DFG Scientific Network [Applicative alternations across languages](https://aaal.uni-koeln.de/). I received my PhD from [New York University](https://as.nyu.edu/departments/linguistics.html). I'm from the southernmost city in Canada. 🇨🇦
 
 How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
@@ -48,6 +48,8 @@ Papers
 - Saelee, Low and Yining Nie. To appear. Adjective ordering in Iu Mien.<br>
 <i>Proceedings of SEALS 33</i>. [[paper](/files/Saelee-Nie-2024-SEALS.pdf)]
 
+- Nie, Yining. 2025. Turkish causatives are recursive: A response to Key 2013.<br><i>Linguistic Inquiry</i> 56(2): 401--414. DOI: [10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472)
+
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2024. Errors of multiple exponence in child English: A study of past tense formation.<br>
 <i>Morphology</i> (published online). DOI: [10.1007/s11525-024-09434-x](https://doi.org/10.1007/s11525-024-09434-x)
 
@@ -62,8 +64,6 @@ Book review, <i>Folia Linguistica</i> 58(2): 571-579. DOI: [10.1515/flin-2024-20
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2024. Errors of multiple exponence in child language.<br><i>Proceedings of WCCFL 40</i>. [lingref.com/cpp/wccfl/40/paper3704.pdf](https://www.lingref.com/cpp/wccfl/40/paper3704.pdf)
 
 - Lee, Soo-Hwan and Yining Nie. 2022. Korean case stacking and the nominal template.<br><i>Proceedings of PLC 45</i>. [repository.upenn.edu/handle/20.500.14332/45338](https://repository.upenn.edu/handle/20.500.14332/45338)
-
-- Nie, Yining. 2022. Turkish causatives are recursive: A response to Key 2013.<br><i>Linguistic Inquiry</i> (early access). DOI: [10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472)
 
 - Martin, Fabienne, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2022. Wearing causation on its sleeve: Overt <i>cause</i> in child French causatives.<br><i>Proceedings of BUCLD 46</i>. [lingref.com/bucld/46/BUCLD46-38.pdf](http://www.lingref.com/bucld/46/BUCLD46-38.pdf)
 
