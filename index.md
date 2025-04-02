@@ -28,7 +28,7 @@ Papers
 *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
 - [Turkish causatives are recursive: A response to Key 2013](https://doi.org/10.1162/ling_a_00472). *Linguistic Inquiry*.
 - [Applicative recursion and nominal licensing](https://doi.org/10.1162/ling_a_00513). *Linguistic Inquiry*.
-- [Jim Wood: Icelandic nominalizations and allosemy](/files/Nie-2024-FL.pdf. *Folia Linguistica* book review.
+- [Jim Wood: Icelandic nominalizations and allosemy](/files/Nie-2024-FL.pdf). *Folia Linguistica* book review.
 - [Ordering preferences in Ukrainian multiple wh-fronting](https://doi.org/10.3765/plsa.v9i1.5661). *Proceedings of LSA 2024* (with Ruby Buenrostro).
 
 <p><a name="publications"> </a></p>
