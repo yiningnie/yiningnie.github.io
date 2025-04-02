@@ -5,9 +5,9 @@ layout: default
 
 ## About
 
-I am a linguist specializing in comparative syntax and morphology, especially in the domain of argument structure. My research incorporates syntactic theory and insights from typology and experimental methods. I have a particular interest in causative constructions and Austronesian languages.
+I am a linguist specializing in comparative syntax and morphology, especially in the domain of argument structure. My research integrates syntactic theory, typology and experimental methods. I have a particular interest in causative constructions and Austronesian languages.
 
-In addition to teaching syntax and semantics at [San José State University](https://www.sjsu.edu/linguistics/), I am also affiliated with the ERC Synergy Project [LeibnizDream](https://leibnizdream.eu) and the DFG Scientific Network [Applicative alternations across languages](https://aaal.uni-koeln.de/). I received my PhD from [New York University](https://as.nyu.edu/departments/linguistics.html). I'm from the southernmost city in Canada. 🇨🇦
+At SJSU, I teach syntax and semantics and advise projects in theoretical and experimental syntax. I am also affiliated with the ERC Synergy Project [LeibnizDream](https://leibnizdream.eu) and DFG Scientific Network Applicative alternations across languages (AAAL). I hold a PhD from [New York University](https://as.nyu.edu/departments/linguistics.html) and am from the southernmost city in Canada. 🇨🇦
 
 How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
@@ -22,13 +22,13 @@ Presentations
 
 Papers
 
+- [Adjectives are not verbs in Iu Mien](/files/Saelee-Nie-2025-LSA.pdf). To appear, *Proceedings of LSA 2025* (with Low Saelee).
 - [Tagalog valency morphology and its neutralization](/files/Nie-Hsieh-2025-STUL.pdf). To appear, *Studia Linguistica* (with Henrison Hsieh).
 - [Adjective ordering in Iu Mien](/files/Saelee-Nie-2024-SEALS.pdf). To appear, *Proceedings of SEALS 33* (with Low Saelee).
 - [Errors of multiple exponence in child English: A study of past tense formation](https://doi.org/10.1007/s11525-024-09434-x). 
 *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
+- [Turkish causatives are recursive: A response to Key 2013](https://doi.org/10.1162/ling_a_00472). *Linguistic Inquiry*.
 - [Applicative recursion and nominal licensing](https://doi.org/10.1162/ling_a_00513). *Linguistic Inquiry*.
-- [Jim Wood: *Icelandic nominalizations and allosemy*](/files/Nie-2024-FL.pdf). *Folia Linguistica* book review.
-- [Ordering preferences in Ukrainian multiple *wh*-fronting](https://doi.org/10.3765/plsa.v9i1.5661). *Proceedings of LSA 2024* (with Ruby Buenrostro).
 
 
 <p><a name="publications"> </a></p>
