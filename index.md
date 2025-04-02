@@ -7,7 +7,7 @@ layout: default
 
 I am a linguist specializing in comparative syntax and morphology, especially in the domain of argument structure. My research integrates syntactic theory, typology and experimental methods. I have a particular interest in causative constructions and Austronesian languages.
 
-At SJSU, I teach syntax and semantics and advise projects in theoretical and experimental syntax. I am also affiliated with the ERC Synergy Project [LeibnizDream](https://leibnizdream.eu) and DFG Scientific Network Applicative alternations across languages (AAAL). I hold a PhD from [New York University](https://as.nyu.edu/departments/linguistics.html) and am from the southernmost city in Canada. 🇨🇦
+At SJSU, I teach syntax and semantics and advise projects in theoretical and experimental syntax. I am also affiliated with the ERC Synergy Project [LeibnizDream](https://leibnizdream.eu) and DFG Scientific Network Applicative alternations across languages (AAAL). I received my PhD from [New York University](https://as.nyu.edu/departments/linguistics.html) and am from the southernmost city in Canada. 🇨🇦
 
 How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
@@ -53,13 +53,13 @@ Papers
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2024. Errors of multiple exponence in child English: A study of past tense formation.<br>
 <i>Morphology</i> (published online). DOI: [10.1007/s11525-024-09434-x](https://doi.org/10.1007/s11525-024-09434-x)
 
+- Nie, Yining. 2024. Applicative recursion and nominal licensing.<br>
+<i>Linguistic Inquiry</i> 55(4): 725--768. DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513)
+
 - Nie, Yining. 2024. Jim Wood: <i>Icelandic nominalizations and allosemy</i>.<br>
-Book review, <i>Folia Linguistica</i> 58(2): 571-579. DOI: [10.1515/flin-2024-2030](https://doi.org/10.1515/flin-2024-2030) [[paper](/files/Nie-2024-FL.pdf)]
+Book review, <i>Folia Linguistica</i> 58(2): 571--579. DOI: [10.1515/flin-2024-2030](https://doi.org/10.1515/flin-2024-2030) [[paper](/files/Nie-2024-FL.pdf)]
 
 - Buenrostro, Ruby and Yining Nie. 2024. Ordering preferences in Ukrainian multiple <i>wh</i>-fronting.<br><i>Proceedings of LSA 2024</i>. DOI: [10.3765/plsa.v9i1.5661](https://doi.org/10.3765/plsa.v9i1.5661)
-
-- Nie, Yining. 2024. Applicative recursion and nominal licensing.<br>
-<i>Linguistic Inquiry</i> 55(4): 725-768. DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513)
 
 - Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2024. Errors of multiple exponence in child language.<br><i>Proceedings of WCCFL 40</i>. [lingref.com/cpp/wccfl/40/paper3704.pdf](https://www.lingref.com/cpp/wccfl/40/paper3704.pdf)
 
@@ -67,13 +67,13 @@ Book review, <i>Folia Linguistica</i> 58(2): 571-579. DOI: [10.1515/flin-2024-20
 
 - Martin, Fabienne, Yining Nie, Artemis Alexiadou and Maria Teresa Guasti. 2022. Wearing causation on its sleeve: Overt <i>cause</i> in child French causatives.<br><i>Proceedings of BUCLD 46</i>. [lingref.com/bucld/46/BUCLD46-38.pdf](http://www.lingref.com/bucld/46/BUCLD46-38.pdf)
 
-- Kouneli, Maria and Yining Nie. 2021. Across-the-board tonal polarity in Kipsigis: Implications for the morphology-phonology interface.<br><i>Language</i> 97(2): e111-e138. DOI: [10.1353/lan.2021.0030](https://doi.org/10.1353/lan.2021.0030) [[paper](/files/Kouneli-Nie-2021-Language.pdf)]
+- Kouneli, Maria and Yining Nie. 2021. Across-the-board tonal polarity in Kipsigis: Implications for the morphology-phonology interface.<br><i>Language</i> 97(2): e111--e138. DOI: [10.1353/lan.2021.0030](https://doi.org/10.1353/lan.2021.0030) [[paper](/files/Kouneli-Nie-2021-Language.pdf)]
 
-- Nie, Yining. 2020. Morphological causatives are Voice over Voice.<br> <i>Word Structure</i> 13(1): 102-126. DOI: [10.3366/word.2020.0161](https://doi.org/10.3366/word.2020.0161) [[paper](/files/Nie-2020-Morphological-causatives.pdf)]
+- Nie, Yining. 2020. Morphological causatives are Voice over Voice.<br> <i>Word Structure</i> 13(1): 102--126. DOI: [10.3366/word.2020.0161](https://doi.org/10.3366/word.2020.0161) [[paper](/files/Nie-2020-Morphological-causatives.pdf)]
 
-- Manova, Stela, Harald Hammarström, Itamar Kastner and Yining Nie. 2020. What is in a morpheme? Theoretical, experimental and computational approaches to the relation of meaning and form in morphology.<br><i>Word Structure</i> 13(1): 1-21. DOI: [10.3366/word.2020.0157](https://doi.org/10.3366/word.2020.0157) [[paper](/files/Manova-2020-Morpheme.pdf)]
+- Manova, Stela, Harald Hammarström, Itamar Kastner and Yining Nie. 2020. What is in a morpheme? Theoretical, experimental and computational approaches to the relation of meaning and form in morphology.<br><i>Word Structure</i> 13(1): 1--21. DOI: [10.3366/word.2020.0157](https://doi.org/10.3366/word.2020.0157) [[paper](/files/Manova-2020-Morpheme.pdf)]
 
-- Nie, Yining. 2019. Raising applicatives and possessors in Tagalog.<br><i>Glossa: a journal of general linguistics</i> 4(1), 139: 1-30. DOI: [10.5334/gjgl.941](http://doi.org/10.5334/gjgl.941)
+- Nie, Yining. 2019. Raising applicatives and possessors in Tagalog.<br><i>Glossa: a journal of general linguistics</i> 4(1), 139: 1--30. DOI: [10.5334/gjgl.941](http://doi.org/10.5334/gjgl.941)
 
 - Warstadt, Alex, Yu Cao, Ioana Grosu, Wei Peng, Hagen Blix, Yining Nie, Anna Alsop, Shikha Bordia, Haokun Liu, Alicia Parrish, Sheng-Fu Wang, Jason Phang, Anhad Mohananey, Phu Mon Htut, Paloma Jeretic and Samuel R. Bowman. 2019. Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs.<br><i>Proceedings of EMNLP 2019</i>. DOI: [10.18653/v1/D19-1286](http://doi.org/10.18653/v1/D19-1286)
 
