@@ -22,7 +22,7 @@ Presentations
 
 Papers
 
-- [Adjectives are not verbs in Iu Mien](https://doi.org/10.3765/plsa.v10i1.5890). \textit{Proceedings of LSA 2025} (with Low Saelee).
+- [Adjectives are not verbs in Iu Mien](https://doi.org/10.3765/plsa.v10i1.5890). <i>Proceedings of LSA 2025</i>(with Low Saelee).
 - [Tagalog valency morphology and its neutralization](/files/Nie-Hsieh-2025-STUL.pdf). To appear, *Studia Linguistica* (with Henrison Hsieh).
 - [Adjective ordering in Iu Mien](/files/Saelee-Nie-2024-SEALS.pdf). To appear, *Proceedings of SEALS 33* (with Low Saelee).
 - [Errors of multiple exponence in child English: A study of past tense formation](https://doi.org/10.1007/s11525-024-09434-x). 
