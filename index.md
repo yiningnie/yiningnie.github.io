@@ -44,6 +44,8 @@ Papers
 
 ### Papers
 
+In reverse order of publication. Please see my CV for full citations.
+
 - Nie, Yining and Henrison Hsieh. To appear. Tagalog valency morphology and its neutralization.<br><i>Studia Linguistica</i>. [[paper](/files/Nie-Hsieh-2025-STUL.pdf)]
 
 - Saelee, Low and Yining Nie. To appear. Adjective ordering in Iu Mien.<br>
