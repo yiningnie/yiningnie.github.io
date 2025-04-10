@@ -22,6 +22,7 @@ Presentations
 
 Papers
 
+- [Adjectives are not verbs in Iu Mien](https://doi.org/10.3765/plsa.v10i1.5890). \textit{Proceedings of LSA 2025} (with Low Saelee).
 - [Tagalog valency morphology and its neutralization](/files/Nie-Hsieh-2025-STUL.pdf). To appear, *Studia Linguistica* (with Henrison Hsieh).
 - [Adjective ordering in Iu Mien](/files/Saelee-Nie-2024-SEALS.pdf). To appear, *Proceedings of SEALS 33* (with Low Saelee).
 - [Errors of multiple exponence in child English: A study of past tense formation](https://doi.org/10.1007/s11525-024-09434-x). 
@@ -47,6 +48,8 @@ Papers
 
 - Saelee, Low and Yining Nie. To appear. Adjective ordering in Iu Mien.<br>
 <i>Proceedings of SEALS 33</i>. [[paper](/files/Saelee-Nie-2024-SEALS.pdf)]
+
+- Saelee, Low and Yining Nie. 2025. Adjectives are not verbs in Iu Mien.<br><i>Proceedings of LSA 2025</i>. DOI: [10.3765/plsa.v10i1.5890](https://doi.org/10.3765/plsa.v10i1.5890)
 
 - Nie, Yining. 2025. Turkish causatives are recursive: A response to Key 2013.<br><i>Linguistic Inquiry</i> 56(2): 401--414. DOI: [10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472)
 
