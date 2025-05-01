@@ -22,9 +22,9 @@ Presentations
 
 Papers
 
-- [Adjectives are not verbs in Iu Mien](https://doi.org/10.3765/plsa.v10i1.5890). <i>Proceedings of LSA 2025</i> (with Low Saelee).
+- [Adjective ordering in Iu Mien](/files/Saelee-Nie-2024-SEALS.pdf). *Proceedings of SEALS 33* (with Low Saelee).
+- [Adjectives are not verbs in Iu Mien](https://doi.org/10.3765/plsa.v10i1.5890). *Proceedings of LSA 2025* (with Low Saelee).
 - [Tagalog valency morphology and its neutralization](/files/Nie-Hsieh-2025-STUL.pdf). To appear, *Studia Linguistica* (with Henrison Hsieh).
-- [Adjective ordering in Iu Mien](/files/Saelee-Nie-2024-SEALS.pdf). To appear, *Proceedings of SEALS 33* (with Low Saelee).
 - [Errors of multiple exponence in child English: A study of past tense formation](https://doi.org/10.1007/s11525-024-09434-x). 
 *Morphology* (with Johannes Hein, Imke Driemel, Fabienne Martin and Artemis Alexiadou). 
 - [Turkish causatives are recursive: A response to Key 2013](https://doi.org/10.1162/ling_a_00472). *Linguistic Inquiry*.
@@ -48,8 +48,8 @@ In reverse order of publication. Please see my CV for full citations.
 
 - Nie, Yining and Henrison Hsieh. To appear. Tagalog valency morphology and its neutralization.<br><i>Studia Linguistica</i>. [[paper](/files/Nie-Hsieh-2025-STUL.pdf)]
 
-- Saelee, Low and Yining Nie. To appear. Adjective ordering in Iu Mien.<br>
-<i>Proceedings of SEALS 33</i>. [[paper](/files/Saelee-Nie-2024-SEALS.pdf)]
+- Saelee, Low and Yining Nie. 2025. Adjective ordering in Iu Mien.<br>
+<i>Proceedings of SEALS 33</i>. [hdl.handle.net/10524/52539](https://hdl.handle.net/10524/52539) [[paper](/files/Saelee-Nie-2024-SEALS.pdf)]
 
 - Saelee, Low and Yining Nie. 2025. Adjectives are not verbs in Iu Mien.<br><i>Proceedings of LSA 2025</i>. DOI: [10.3765/plsa.v10i1.5890](https://doi.org/10.3765/plsa.v10i1.5890)
 
