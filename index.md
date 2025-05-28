@@ -48,15 +48,15 @@ In reverse order of publication. Please see my CV for full citations.
 
 - Nie, Yining and Henrison Hsieh. To appear. Tagalog valency morphology and its neutralization.<br><i>Studia Linguistica</i>. [[paper](/files/Nie-Hsieh-2025-STUL.pdf)]
 
+- Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2025. Errors of multiple exponence in child English: A study of past tense formation.<br>
+<i>Morphology</i> 35(2): 143--183. DOI: [10.1007/s11525-024-09434-x](https://doi.org/10.1007/s11525-024-09434-x)
+
 - Saelee, Low and Yining Nie. 2025. Adjective ordering in Iu Mien.<br>
 <i>Proceedings of SEALS 33</i>. [hdl.handle.net/10524/52539](https://hdl.handle.net/10524/52539) [[paper](/files/Saelee-Nie-2024-SEALS.pdf)]
 
 - Saelee, Low and Yining Nie. 2025. Adjectives are not verbs in Iu Mien.<br><i>Proceedings of LSA 2025</i>. DOI: [10.3765/plsa.v10i1.5890](https://doi.org/10.3765/plsa.v10i1.5890)
 
 - Nie, Yining. 2025. Turkish causatives are recursive: A response to Key 2013.<br><i>Linguistic Inquiry</i> 56(2): 401--414. DOI: [10.1162/ling_a_00472](https://doi.org/10.1162/ling_a_00472)
-
-- Hein, Johannes, Imke Driemel, Fabienne Martin, Yining Nie and Artemis Alexiadou. 2024. Errors of multiple exponence in child English: A study of past tense formation.<br>
-<i>Morphology</i> (published online). DOI: [10.1007/s11525-024-09434-x](https://doi.org/10.1007/s11525-024-09434-x)
 
 - Nie, Yining. 2024. Applicative recursion and nominal licensing.<br>
 <i>Linguistic Inquiry</i> 55(4): 725--768. DOI: [10.1162/ling_a_00513](https://doi.org/10.1162/ling_a_00513)
