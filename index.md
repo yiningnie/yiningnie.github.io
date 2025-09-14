@@ -11,7 +11,7 @@ At SJSU, I teach syntax and semantics and advise projects in theoretical and exp
 
 How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
-### Recent and upcoming
+### Recent
 
 Presentations
 
