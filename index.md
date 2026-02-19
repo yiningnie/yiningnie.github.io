@@ -15,6 +15,7 @@ How to pronounce my name: [jɪˈnɪŋ ˈniː], I also accept [ˈjɪnɪŋ]
 
 Presentations
 
+- [Korean nominal stacking and the argument/oblique alternation](Nie-Lee-AAAL-2.pdf). *AAAL Workshop 2* invited talk (with Soo-Hwan Lee).
 - [Adjectives are not verbs in Iu Mien](/files/Saelee-Nie-LSA-2025.pdf). *LSA 2025* talk (with Low Saelee).
 - [Voice-over-Voice causatives](/files/Nie-2024-COCOA.pdf). Converging On Causal Ontology Analyses (COCOA), Structures Formelles du Langage, CNRS/Paris 8 invited talk.
 - [Does occluding the agent's body affect Italian children's production of argument structure?](/files/Dal Farra-Silleresi-Martin-Nie-Alexiadou-Guasti-GALA-2024.pdf) *GALA 16* talk (with Chiara Dal Farra, Silvia Silleresi, Fabienne Martin, Artemis Alexiadou and Maria Teresa Guasti).
