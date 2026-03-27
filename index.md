@@ -104,6 +104,9 @@ Book review, <i>Folia Linguistica</i> 58(2): 571--579. DOI: [10.1515/flin-2024-2
 
 Recent and selected presentations that have not (yet) appeared in a paper version. Feel free to email me for other materials not listed here.
 
+- Nie, Yining and Soo-Hwan Lee. 2026. Korean nominal stacking and the argument/oblique alternation.<br>
+*AAAL Workshop 2*, University of Cologne. [[slides](/files/Nie-Lee-AAAL-2.pdf)]
+
 - Saelee, Low and Yining Nie. 2025. Adjectives are not verbs in Iu Mien.<br>
 *LSA 2025*, Philadelphia. [[slides](/files/Saelee-Nie-LSA-2025.pdf)]
 
