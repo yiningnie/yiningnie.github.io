@@ -5,7 +5,7 @@ layout: default
 
 ## About
 
-I am a linguist specializing in comparative syntax and morphology, especially in the domain of argument structure. My research integrates syntactic theory, typology and experimental methods. I have a particular interest in causative constructions and Austronesian languages.
+I am a linguist specializing in comparative syntax and morphology, especially in the domain of argument structure. My research integrates syntactic theory, typology and experimental methods. I have a particular interest in causative and applicative constructions and Austronesian languages.
 
 At SJSU, I teach syntax and semantics and advise projects in theoretical and experimental syntax. I am also affiliated with the ERC Synergy Project [LeibnizDream](https://leibnizdream.eu) and DFG Scientific Network [Applicative alternations across languages (AAAL)](https://aaal.uni-koeln.de/). I received my PhD from [New York University](https://as.nyu.edu/departments/linguistics.html) and am from the southernmost city in Canada. 🇨🇦
 
